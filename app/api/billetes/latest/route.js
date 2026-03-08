@@ -6,13 +6,14 @@ export async function GET() {
     const billetes = await prisma.billetes_modelo.findMany({
       where: {
         visible: true,
-        imagenes_modelo: { some: { visible: true, es_portada: true } },
+        imagenes_modelo: { some: { visible: true } },
       },
       orderBy: { id: 'desc' },
       take: 100,
       include: {
         imagenes_modelo: {
-          where: { visible: true, es_portada: true },
+          where: { visible: true },
+          orderBy: { es_portada: 'desc' },
           take: 1,
         },
       },

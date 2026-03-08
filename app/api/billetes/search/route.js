@@ -39,7 +39,8 @@ export async function GET(request) {
         take: limit,
         include: {
           imagenes_modelo: {
-            where: { visible: true, es_portada: true },
+            where: { visible: true },
+            orderBy: { es_portada: 'desc' },
             take: 1,
           },
         },

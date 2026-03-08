@@ -3,8 +3,11 @@
 import { useState } from 'react';
 import Image from 'next/image';
 
+const isExternal = (url) => typeof url === 'string' && url.startsWith('http');
+
 export default function BanknoteImage({ src, alt = '', fill, width, height, sizes, className = '', iconSize = 'w-12 h-12', priority = false }) {
   const [error, setError] = useState(false);
+  const [loading, setLoading] = useState(true);
 
   if (!src || error) {
     return (
@@ -16,11 +19,29 @@ export default function BanknoteImage({ src, alt = '', fill, width, height, size
     );
   }
 
-  const imgProps = { src, alt, className, onError: () => setError(true), priority };
+  const external = isExternal(src);
+  const imgProps = {
+    src,
+    alt,
+    className: `${className} ${loading ? 'opacity-0' : 'opacity-100'} transition-opacity duration-300`,
+    onError: () => setError(true),
+    onLoad: () => setLoading(false),
+    priority,
+    ...(external ? { unoptimized: true } : {}),
+  };
 
-  if (fill) {
-    return <Image {...imgProps} fill sizes={sizes} />;
-  }
-
-  return <Image {...imgProps} width={width} height={height} />;
+  return (
+    <>
+      {loading && (
+        <div className="absolute inset-0 flex items-center justify-center bg-gray-100 z-10">
+          <div className="w-6 h-6 border-2 border-amber-400 border-t-transparent rounded-full animate-spin" />
+        </div>
+      )}
+      {fill ? (
+        <Image {...imgProps} fill sizes={sizes} />
+      ) : (
+        <Image {...imgProps} width={width} height={height} />
+      )}
+    </>
+  );
 }
