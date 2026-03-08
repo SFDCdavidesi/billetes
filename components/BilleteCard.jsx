@@ -1,105 +1,74 @@
+'use client';
+
 import Image from 'next/image';
-import Link from 'next/link';
+import { useI18n } from './I18nProvider';
 
 export default function BilleteCard({ billete }) {
+  const { t } = useI18n();
+
+  const conditionColors = {
+    UNC: 'bg-emerald-100 text-emerald-700',
+    AU: 'bg-green-100 text-green-700',
+    XF: 'bg-blue-100 text-blue-700',
+    VF: 'bg-amber-100 text-amber-700',
+    F: 'bg-orange-100 text-orange-700',
+  };
+
+  const colorClass = conditionColors[billete.condition] || 'bg-gray-100 text-gray-700';
+
   return (
-    <article className="card card-hover group">
-      {/* Image Container */}
-      <div className="relative overflow-hidden aspect-[4/3]">
+    <div className="group bg-white rounded-2xl shadow-md hover:shadow-xl border border-gray-100 overflow-hidden transition-all duration-300 hover:-translate-y-1">
+      {/* Image */}
+      <div className="relative aspect-[3/2] bg-gray-100 overflow-hidden">
         <Image
           src={billete.image}
           alt={billete.title}
           fill
-          className="object-cover group-hover:scale-110 transition-transform duration-500"
+          className="object-cover group-hover:scale-105 transition-transform duration-500"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
-        
-        {/* Overlay on hover */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-        
-        {/* Quick View Button */}
-        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-          <button className="px-4 py-2 bg-white text-gray-900 rounded-lg font-semibold shadow-lg transform translate-y-4 group-hover:translate-y-0 transition-transform duration-300">
-            Ver Detalles
-          </button>
-        </div>
-        
-        {/* Badges */}
-        <div className="absolute top-3 left-3 flex gap-2">
-          {billete.featured && (
-            <span className="px-2 py-1 bg-gold-500 text-white text-xs font-semibold rounded-full">
-              Destacado
-            </span>
-          )}
-          {billete.rare && (
-            <span className="px-2 py-1 bg-red-500 text-white text-xs font-semibold rounded-full">
-              Raro
-            </span>
-          )}
-        </div>
-        
-        {/* Favorite Button */}
-        <button 
-          className="absolute top-3 right-3 w-8 h-8 bg-white/90 hover:bg-white rounded-full flex items-center justify-center shadow-md transition-colors group/fav"
-          aria-label="Añadir a favoritos"
+        {billete.badge && (
+          <span className="absolute top-3 left-3 px-3 py-1 bg-amber-500 text-white text-xs font-bold rounded-full shadow">
+            {billete.badge}
+          </span>
+        )}
+        <button
+          className="absolute top-3 right-3 w-9 h-9 bg-white/80 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white hover:text-red-500 transition-all shadow"
+          title={t('featured.addFavorite')}
         >
-          <svg 
-            className="w-4 h-4 text-gray-400 group-hover/fav:text-red-500 transition-colors" 
-            fill="none" 
-            stroke="currentColor" 
-            viewBox="0 0 24 24"
-          >
-            <path 
-              strokeLinecap="round" 
-              strokeLinejoin="round" 
-              strokeWidth={2} 
-              d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" 
-            />
+          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
           </svg>
         </button>
       </div>
-      
+
       {/* Content */}
       <div className="p-5">
-        {/* Country & Year */}
-        <div className="flex items-center gap-2 mb-2">
-          <span className="text-2xl">{billete.flag}</span>
-          <span className="text-sm text-gray-500">{billete.country}</span>
-          <span className="text-gray-300">•</span>
-          <span className="text-sm text-gray-500">{billete.year}</span>
-        </div>
-        
-        {/* Title */}
-        <h3 className="font-serif font-bold text-lg text-gray-900 mb-2 line-clamp-2 group-hover:text-gold-600 transition-colors">
-          {billete.title}
-        </h3>
-        
-        {/* Description */}
-        <p className="text-sm text-gray-600 mb-4 line-clamp-2">
-          {billete.description}
-        </p>
-        
-        {/* Footer */}
-        <div className="flex items-center justify-between pt-4 border-t border-gray-100">
-          {/* Condition Badge */}
-          <div className="flex items-center gap-1">
-            <span className={`w-2 h-2 rounded-full ${
-              billete.condition === 'Excelente' ? 'bg-green-500' :
-              billete.condition === 'Muy Bueno' ? 'bg-blue-500' :
-              billete.condition === 'Bueno' ? 'bg-yellow-500' : 'bg-gray-400'
-            }`}></span>
-            <span className="text-xs text-gray-500">{billete.condition}</span>
-          </div>
-          
-          {/* Price or Value */}
-          {billete.price ? (
-            <span className="text-lg font-bold text-gold-600">
-              €{billete.price.toLocaleString()}
+        <div className="flex items-center justify-between mb-2">
+          <span className="text-xs text-gray-500 font-medium">{billete.country} · {billete.year}</span>
+          {billete.condition && (
+            <span className={`text-xs font-bold px-2 py-0.5 rounded-full ${colorClass}`}>
+              {billete.condition}
             </span>
-          ) : (
-            <span className="text-sm text-gray-400 italic">Sin precio</span>
           )}
         </div>
+        <h3 className="text-lg font-bold text-gray-900 mb-1 line-clamp-1 group-hover:text-amber-700 transition-colors">
+          {billete.title}
+        </h3>
+        <p className="text-sm text-gray-500 line-clamp-2 mb-4">{billete.denomination} {billete.currency}</p>
+
+        <div className="flex items-center justify-between pt-3 border-t border-gray-100">
+          <span className="text-xl font-bold text-amber-700">
+            {billete.price ? `€${billete.price}` : t('featured.noPrice')}
+          </span>
+          <button className="text-sm font-semibold text-amber-600 hover:text-amber-800 flex items-center gap-1 transition-colors">
+            {t('featured.viewDetails')}
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+            </svg>
+          </button>
+        </div>
       </div>
-    </article>
+    </div>
   );
 }

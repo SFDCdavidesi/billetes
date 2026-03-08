@@ -1,0 +1,220 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model billetes_modelo {
+  id                  Int                   @id @default(autoincrement())
+  pais                String                @db.VarChar(100)
+  denominacion        Decimal               @db.Decimal(15, 2)
+  unidad_monetaria    String                @db.VarChar(50)
+  a_o_emision         Int?                  @map("a¤o_emision")
+  catalogo_id         Int?
+  codigo_catalogo     String?               @db.VarChar(50)
+  visible             Boolean?              @default(true)
+  catalogos           catalogos?            @relation(fields: [catalogo_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  ejemplares          ejemplares[]
+  imagenes_modelo     imagenes_modelo[]
+  listas_deseos_items listas_deseos_items[]
+}
+
+model imagenes_modelo {
+  id              Int              @id @default(autoincrement())
+  modelo_id       Int
+  url             String
+  es_portada      Boolean?         @default(false)
+  visible         Boolean?         @default(true)
+  billetes_modelo billetes_modelo  @relation(fields: [modelo_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model carrito_items {
+  id             Int         @id @default(autoincrement())
+  usuario_id     Int?
+  ejemplar_id    Int?
+  fecha_agregado DateTime?   @default(now()) @db.Timestamp(6)
+  visible        Boolean?    @default(true)
+  ejemplares     ejemplares? @relation(fields: [ejemplar_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  usuarios       usuarios?   @relation(fields: [usuario_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+
+  @@unique([usuario_id, ejemplar_id])
+}
+
+model catalogos {
+  id              Int               @id @default(autoincrement())
+  nombre          String            @db.VarChar(100)
+  descripcion     String?
+  visible         Boolean?          @default(true)
+  billetes_modelo billetes_modelo[]
+}
+
+model colecciones {
+  id                Int                 @id @default(autoincrement())
+  usuario_id        Int?
+  nombre            String              @db.VarChar(100)
+  descripcion       String?
+  fecha_creacion    DateTime?           @default(now()) @db.Timestamp(6)
+  visible           Boolean?            @default(true)
+  usuarios          usuarios?           @relation(fields: [usuario_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  colecciones_items colecciones_items[]
+}
+
+model colecciones_items {
+  id                Int          @id @default(autoincrement())
+  coleccion_id      Int?
+  ejemplar_id       Int?
+  precio_valoracion Decimal?     @db.Decimal(15, 2)
+  fecha_agregado    DateTime?    @default(now()) @db.Timestamp(6)
+  visible           Boolean?     @default(true)
+  colecciones       colecciones? @relation(fields: [coleccion_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  ejemplares        ejemplares?  @relation(fields: [ejemplar_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+
+  @@unique([coleccion_id, ejemplar_id])
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model direcciones {
+  id                  Int       @id @default(autoincrement())
+  usuario_id          Int?
+  tipo_direccion      String    @db.VarChar(20)
+  nombre_destinatario String    @db.VarChar(150)
+  calle_y_numero      String    @db.VarChar(255)
+  piso_puerta         String?   @db.VarChar(100)
+  ciudad              String    @db.VarChar(100)
+  provincia_estado    String    @db.VarChar(100)
+  codigo_postal       String    @db.VarChar(20)
+  pais                String    @db.VarChar(100)
+  es_predeterminada   Boolean?  @default(false)
+  fecha_creacion      DateTime? @default(now()) @db.Timestamp(6)
+  fecha_modificacion  DateTime? @default(now()) @db.Timestamp(6)
+  visible             Boolean?  @default(true)
+  usuarios            usuarios? @relation(fields: [usuario_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model ejemplares {
+  id                  Int                   @id @default(autoincrement())
+  modelo_id           Int
+  propietario_id      Int
+  estado_conservacion String?               @db.VarChar(20)
+  notas_privadas      String?
+  en_venta            Boolean?              @default(false)
+  precio              Decimal?              @db.Decimal(15, 2)
+  fecha_adquisicion   DateTime?             @db.Date
+  visible             Boolean?              @default(true)
+  carrito_items       carrito_items[]
+  colecciones_items   colecciones_items[]
+  billetes_modelo     billetes_modelo       @relation(fields: [modelo_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  usuarios            usuarios              @relation(fields: [propietario_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  imagenes_ejemplar   imagenes_ejemplar[]
+  listas_deseos_items listas_deseos_items[]
+  pedidos             pedidos[]
+  subastas            subastas[]
+}
+
+model imagenes_ejemplar {
+  id          Int         @id @default(autoincrement())
+  ejemplar_id Int?
+  url         String
+  es_portada  Boolean?    @default(false)
+  visible     Boolean?    @default(true)
+  ejemplares  ejemplares? @relation(fields: [ejemplar_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model listas_deseos {
+  id                  Int                   @id @default(autoincrement())
+  usuario_id          Int?
+  nombre              String                @default("Mi Lista de Deseos") @db.VarChar(100)
+  descripcion         String?
+  fecha_creacion      DateTime?             @default(now()) @db.Timestamp(6)
+  visible             Boolean?              @default(true)
+  usuarios            usuarios?             @relation(fields: [usuario_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  listas_deseos_items listas_deseos_items[]
+}
+
+model listas_deseos_items {
+  id              Int              @id @default(autoincrement())
+  lista_id        Int?
+  modelo_id       Int?
+  ejemplar_id     Int?
+  fecha_agregado  DateTime?        @default(now()) @db.Timestamp(6)
+  visible         Boolean?         @default(true)
+  ejemplares      ejemplares?      @relation(fields: [ejemplar_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  listas_deseos   listas_deseos?   @relation(fields: [lista_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  billetes_modelo billetes_modelo? @relation(fields: [modelo_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model pedidos {
+  id                                      Int        @id @default(autoincrement())
+  comprador_id                            Int
+  vendedor_id                             Int
+  ejemplar_id                             Int
+  precio_final                            Decimal    @db.Decimal(15, 2)
+  fecha_compra                            DateTime?  @default(now()) @db.Timestamp(6)
+  estado                                  String?    @default("Completado") @db.VarChar(50)
+  visible                                 Boolean?   @default(true)
+  usuarios_pedidos_comprador_idTousuarios usuarios   @relation("pedidos_comprador_idTousuarios", fields: [comprador_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  ejemplares                              ejemplares @relation(fields: [ejemplar_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  usuarios_pedidos_vendedor_idTousuarios  usuarios   @relation("pedidos_vendedor_idTousuarios", fields: [vendedor_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model perfiles {
+  id          Int        @id @default(autoincrement())
+  nombre      String     @unique @db.VarChar(50)
+  descripcion String?
+  visible     Boolean?   @default(true)
+  usuarios    usuarios[]
+}
+
+model pujas {
+  id         Int       @id @default(autoincrement())
+  subasta_id Int?
+  usuario_id Int
+  cantidad   Decimal   @db.Decimal(15, 2)
+  fecha_puja DateTime? @default(now()) @db.Timestamp(6)
+  visible    Boolean?  @default(true)
+  subastas   subastas? @relation(fields: [subasta_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  usuarios   usuarios  @relation(fields: [usuario_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model subastas {
+  id               Int         @id @default(autoincrement())
+  ejemplar_id      Int?
+  vendedor_id      Int
+  fecha_creacion   DateTime?   @default(now()) @db.Timestamp(6)
+  fecha_activacion DateTime    @db.Timestamp(6)
+  fecha_fin        DateTime    @db.Timestamp(6)
+  puja_minima      Decimal     @db.Decimal(15, 2)
+  precio_compra_ya Decimal?    @db.Decimal(15, 2)
+  estado           String?     @default("Programada") @db.VarChar(50)
+  visible          Boolean?    @default(true)
+  pujas            pujas[]
+  ejemplares       ejemplares? @relation(fields: [ejemplar_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  usuarios         usuarios    @relation(fields: [vendedor_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model usuarios {
+  id                                     Int             @id @default(autoincrement())
+  nombre                                 String          @db.VarChar(100)
+  email                                  String          @unique @db.VarChar(150)
+  password_hash                          String          @db.VarChar(255)
+  activo                                 Boolean?        @default(false)
+  email_validado                         Boolean?        @default(false)
+  token_verificacion                     String?         @db.VarChar(255)
+  fecha_creacion                         DateTime?       @default(now()) @db.Timestamp(6)
+  fecha_modificacion                     DateTime?       @default(now()) @db.Timestamp(6)
+  visible                                Boolean?        @default(true)
+  perfil_id                              Int?            @default(1)
+  carrito_items                          carrito_items[]
+  colecciones                            colecciones[]
+  direcciones                            direcciones[]
+  ejemplares                             ejemplares[]
+  listas_deseos                          listas_deseos[]
+  pedidos_pedidos_comprador_idTousuarios pedidos[]       @relation("pedidos_comprador_idTousuarios")
+  pedidos_pedidos_vendedor_idTousuarios  pedidos[]       @relation("pedidos_vendedor_idTousuarios")
+  pujas                                  pujas[]
+  subastas                               subastas[]
+  perfiles                               perfiles?       @relation(fields: [perfil_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}

@@ -1,21 +1,25 @@
 import HeroSection from '@/components/HeroSection';
-import FeaturedCollections from '@/components/FeaturedCollections';
+import BanknoteCarousel from '@/components/BanknoteCarousel';
+import SearchBanknotes from '@/components/SearchBanknotes';
 import FeaturesSection from '@/components/FeaturesSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 
 export default function Home() {
   return (
     <>
-      {/* Hero Section - Sección principal impactante */}
+      {/* Hero Section */}
       <HeroSection />
       
-      {/* Featured Collections - Colecciones destacadas con cards de billetes */}
-      <FeaturedCollections />
+      {/* Carousel - Últimos 100 billetes de la BD */}
+      <BanknoteCarousel />
+      
+      {/* Buscador con filtros */}
+      <SearchBanknotes />
       
       {/* Features Section - Por qué elegirnos */}
       <FeaturesSection />
       
-      {/* Testimonials - Lo que dicen los coleccionistas */}
+      {/* Testimonials */}
       <TestimonialsSection />
     </>
   );
