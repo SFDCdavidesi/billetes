@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Billetes – Bank Notes Database</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>💵 Billetes</h1>
+      <p class="subtitle">A World Bank Notes Database</p>
+    </header>
+
+    <main>
+      <div class="filters">
+        <input
+          type="text"
+          id="search"
+          placeholder="Search by country or currency…"
+          aria-label="Search banknotes"
+        />
+      </div>
+
+      <div id="banknotes-grid" class="grid" role="list" aria-label="Bank notes"></div>
+      <p id="no-results" class="no-results hidden">No banknotes found.</p>
+    </main>
+
+    <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-content">
+        <button class="close-btn" id="close-modal" aria-label="Close">&times;</button>
+        <h2 id="modal-title"></h2>
+        <p id="modal-currency"></p>
+        <p id="modal-denomination"></p>
+        <p id="modal-year"></p>
+        <p id="modal-description"></p>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
