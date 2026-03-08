@@ -9,6 +9,7 @@ export async function GET(request) {
     const anioDesde = searchParams.get('anio_desde');
     const anioHasta = searchParams.get('anio_hasta');
     const denominacion = searchParams.get('denominacion');
+    const referencia = searchParams.get('referencia');
     const page = parseInt(searchParams.get('page') || '1', 10);
     const limit = Math.min(parseInt(searchParams.get('limit') || '20', 10), 100);
     const skip = (page - 1) * limit;
@@ -24,7 +25,10 @@ export async function GET(request) {
       if (anioHasta) where.a_o_emision.lte = parseInt(anioHasta, 10);
     }
     if (denominacion) {
-      where.unidad_monetaria = { contains: denominacion, mode: 'insensitive' };
+      where.denominacion = parseFloat(denominacion);
+    }
+    if (referencia) {
+      where.codigo_catalogo = { contains: referencia, mode: 'insensitive' };
     }
 
     const [billetes, total] = await Promise.all([

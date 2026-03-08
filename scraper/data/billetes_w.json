@@ -1,0 +1,1238 @@
+{
+  "metadata": {
+    "source": "banknotescollection.com",
+    "filter": "Países con letra W",
+    "total_countries": 1,
+    "total_banknotes": 19,
+    "total_images": 30,
+    "errors": 0
+  },
+  "banknotes": [
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P1",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P1",
+      "denomination": 50.0,
+      "date": "ND (1958)",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:  Abidjan",
+      "reverse_info": "Abidjan",
+      "title": "West African States 50 Francs  P1",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-50-francs-nd-1958-p1_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-50-francs-nd-1958-p1_2.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-50-francs-nd-1958-p1-1a_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-50-francs-nd-1958-p1-1a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "1a",
+          "notes": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P2",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P2",
+      "denomination": 100.0,
+      "date": "1959 & ND (1959-1962)",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:  Wooden mask of the Baule tribe (Ivory Coast), woman",
+      "obverse_info": "Wooden mask of the Baule tribe (Ivory Coast), woman",
+      "reverse_info": "Man, carving from Benin",
+      "title": "West African States 100 Francs  P2",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-100-francs-1959-nd-1959-1962-p2_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-100-francs-1959-nd-1959-1962-p2_2.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-100-francs-1959-nd-1959-1962-p2-2a_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-100-francs-1959-nd-1959-1962-p2-2a_2.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-100-francs-1959-nd-1959-1962-p2-2b_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-100-francs-1959-nd-1959-1962-p2-2b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "2a",
+          "notes": "23.04.1959\r\nsignatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "2b",
+          "notes": "Not dated\r\nsignatures: M. S. M'khaitirat & R. Julienne",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P3",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P3",
+      "denomination": 500.0,
+      "date": "15.04.1959",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:  Fieldwork, cast bronze head for the altar of Idia, the first Queen Mother (Iyoba) of Bénin",
+      "obverse_info": "Fieldwork, cast bronze head for the altar of Idia, the first Queen Mother (Iyoba) of Bénin",
+      "reverse_info": "Notas:   for a similar earlier note issued by Institut d'Émission de l'Afrique Occidentale Française et du Togo see FRENCH WEST AFRICA P-473a",
+      "title": "West African States 500 Francs  P3",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-500-francs--15041959-p3_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-500-francs--15041959-p3_2.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-500-francs--15041959-p3-3a_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-500-francs--15041959-p3-3a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "3a",
+          "notes": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P4",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P4",
+      "denomination": 1000.0,
+      "date": "17.09.1959",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Signatures: R. Tezenas du Montcel & R. Julienne4a",
+      "title": "West African States 1.000 Francs  P4",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-1000-francs-17091959-p4_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-1000-francs-17091959-p4_2.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-1000-francs-17091959-p4-4a_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-1000-francs-17091959-p4-4a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "4a",
+          "notes": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P5",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P5",
+      "denomination": 5000.0,
+      "date": "15.04.1959",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Signatures: R. Tezenas du Montcel & R. Julienne5a",
+      "title": "West African States 5.000 Francs  P5",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-5000-francs-15041959-p5_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-5000-francs-15041959-p5_2.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-5000-francs-15041959-p5-5a_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-5000-francs-15041959-p5-5a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "5a",
+          "notes": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P101A",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P101A",
+      "denomination": 100.0,
+      "date": "1961-1965 & ND",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:  Wooden mask of the Baule tribe (Ivory Coast), woman",
+      "obverse_info": "Wooden mask of the Baule tribe (Ivory Coast), woman",
+      "reverse_info": "Man, carving from Benin",
+      "title": "West African States 100 Francs  P101A",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "101Aa",
+          "notes": "20.03.1961\r\nsignatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "101Ab",
+          "notes": "20.03.1961\r\nengraved (Block #136-175)\r\nsignatures: B. Borna & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "101Ac",
+          "notes": "20.03.1961\r\nlithographed (Block #176-199)\r\nsignatures: B. Borna & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "101Ad",
+          "notes": "02.12.1964\r\nsignatures: Alpha Ba Bocar & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "101Ae",
+          "notes": "02.03.1965\r\nsignautres: B. U. Yezid & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "101Af",
+          "notes": "not dated\r\nsignatures: B. U. Yezid & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "101Ag",
+          "notes": "not dated\r\nsignatures: M. S. M'khaitirat & R. Julienne",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P102A",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P102A",
+      "denomination": 500.0,
+      "date": "1959-1964 & ND",
+      "issuer": "Banque Centrale des États de l'Afrique de l'Ouest",
+      "printer": "Informacion del anverso:  Fieldwork, cast bronze head for the altar of Idia, the first Queen Mother (Iyoba) of Bénin",
+      "obverse_info": "Fieldwork, cast bronze head for the altar of Idia, the first Queen Mother (Iyoba) of Bénin",
+      "reverse_info": "Notas:  Code Letter: A, Ivory Coast102Aa",
+      "title": "West African States 500 Francs  P102A",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "102Aa",
+          "notes": "15.04.1959\r\nsignatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ab",
+          "notes": "20.03.1961\r\nsignatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ac",
+          "notes": "20.03.1961\r\nsignatures: B. Borna & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ad",
+          "notes": "02.12.1964\r\nsignatures: Alpha Ba Bocar & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ae",
+          "notes": "not dated\r\nsignatures: M. S. M'khaitirat & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Af",
+          "notes": "not dated\r\nengraved (Block # P.25 - E.33)\r\nsignatures: T. M. Garango & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ag",
+          "notes": "not dated\r\nlithographed (Block # H.33 - D.35)\r\nsignatures: T. M. Garango & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ah",
+          "notes": "not dated\r\nsignatures: J. Collin & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ai",
+          "notes": "not dated\r\nsignatures: Babacar Ba & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Aj",
+          "notes": "not dated\r\nsignatures: Edem Kojo & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "102Ak",
+          "notes": "not dated\r\nsignatures: Edem Kojo & A. Fadiga",
+          "images": []
+        },
+        {
+          "variant_id": "102Al",
+          "notes": "not dated\r\nsignatures: H. C. Bedie & A. Fadiga",
+          "images": []
+        },
+        {
+          "variant_id": "102Am",
+          "notes": "not dated\r\nsignatures: I. Amoussou & A. Fadiga",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P201B",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P201B",
+      "denomination": 100.0,
+      "date": "1961-1965 & ND",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Wooden mask of \r\n  the Baule tribe (Ivory Coast), woman",
+      "reverse_info": "Man, carving from Benin",
+      "title": "West African States 100 Francs 1965 P201B",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-100 francs-1961-1965-nd--p201b_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-100 francs-1961-1965-nd--p201b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "201Ba",
+          "notes": "20.03.1961\n    signatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "201Bb",
+          "notes": "20.03.1961\n    engraved (Block #135-175)\n    signatures: B. Borna & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "201Bc",
+          "notes": "20.03.1961\n    lithographed (Block #176-199)\n    signatures: B. Borna & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "201Bd",
+          "notes": "02.12.1964\n    signatures: Alpha Ba Bocar & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "201Be",
+          "notes": "02.03.1965\n    signautres: B. U. Yezid & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "201Bf",
+          "notes": "not dated\n    signatures: B. U. Yezid & R. Julienne",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P212B",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P212B",
+      "denomination": 2500.0,
+      "date": null,
+      "issuer": null,
+      "printer": null,
+      "obverse_info": "Hydroelectric dam, \n  woman",
+      "reverse_info": "Spraying pesticides",
+      "title": "West African States 2.500 Francs 1994 P212B",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "212Ba",
+          "notes": "1992",
+          "images": []
+        },
+        {
+          "variant_id": "212Bb",
+          "notes": "1993",
+          "images": []
+        },
+        {
+          "variant_id": "212Bc",
+          "notes": "1994",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P415D",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P415D",
+      "denomination": 1000.0,
+      "date": "2003-2021",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Catfish \r\n  shaped brass weight of the Ashanti people for weighing gold dust, \r\n  symbols of education and health",
+      "reverse_info": "Camels",
+      "title": "West African States 1.000 Francs CFA 2021 P415D",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "415D",
+          "notes": "2009*\n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "415Da",
+          "notes": "2003",
+          "images": []
+        },
+        {
+          "variant_id": "415Db",
+          "notes": "2004",
+          "images": []
+        },
+        {
+          "variant_id": "415Dc",
+          "notes": "2005",
+          "images": []
+        },
+        {
+          "variant_id": "415Dd",
+          "notes": "2006",
+          "images": []
+        },
+        {
+          "variant_id": "415De",
+          "notes": "2007",
+          "images": []
+        },
+        {
+          "variant_id": "415Df",
+          "notes": "2008\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "415Dg",
+          "notes": "2008\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "415Di",
+          "notes": "2010",
+          "images": []
+        },
+        {
+          "variant_id": "415Dj",
+          "notes": "2011",
+          "images": []
+        },
+        {
+          "variant_id": "415Dl",
+          "notes": "2012",
+          "images": []
+        },
+        {
+          "variant_id": "415Dm",
+          "notes": "2013",
+          "images": []
+        },
+        {
+          "variant_id": "415Dn",
+          "notes": "2014",
+          "images": []
+        },
+        {
+          "variant_id": "415Do",
+          "notes": "2015",
+          "images": []
+        },
+        {
+          "variant_id": "415Dp",
+          "notes": "2016",
+          "images": []
+        },
+        {
+          "variant_id": "415Dq",
+          "notes": "2017",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P416D",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P416D",
+      "denomination": 2000.0,
+      "date": "2003-2021",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Catfish \r\n  shaped brass weight of the Ashanti people for weighing gold dust, \r\n  train, airplane, airport tower, bus",
+      "reverse_info": "Groupers",
+      "title": "West African States 2.000 Francs CFA 2021 P416D",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "416D",
+          "notes": "2010*\n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "416Da",
+          "notes": "2003",
+          "images": []
+        },
+        {
+          "variant_id": "416Db",
+          "notes": "2004",
+          "images": []
+        },
+        {
+          "variant_id": "416Dc",
+          "notes": "2005",
+          "images": []
+        },
+        {
+          "variant_id": "416Dd",
+          "notes": "2006",
+          "images": []
+        },
+        {
+          "variant_id": "416De",
+          "notes": "2007",
+          "images": []
+        },
+        {
+          "variant_id": "416Df",
+          "notes": "2008\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "416Dg",
+          "notes": "2008\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "416Dh",
+          "notes": "2009",
+          "images": []
+        },
+        {
+          "variant_id": "416Dj",
+          "notes": "2011",
+          "images": []
+        },
+        {
+          "variant_id": "416Dl",
+          "notes": "2012",
+          "images": []
+        },
+        {
+          "variant_id": "416Dm",
+          "notes": "2013",
+          "images": []
+        },
+        {
+          "variant_id": "416Dn",
+          "notes": "2014",
+          "images": []
+        },
+        {
+          "variant_id": "416Do",
+          "notes": "2015",
+          "images": []
+        },
+        {
+          "variant_id": "416Dp",
+          "notes": "2016",
+          "images": []
+        },
+        {
+          "variant_id": "416Dq",
+          "notes": "2017",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P417D",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P417D",
+      "denomination": 5000.0,
+      "date": "2003-2021",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Catfish \r\n  shaped brass weight of the Ashanti people for weighing gold dust, \r\n  banana treestrees",
+      "reverse_info": "Antelopes (kobus kob)",
+      "title": "West African States 5.000 Francs CFA 2003 P417D",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "417D",
+          "notes": "2020*\n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "417Da",
+          "notes": "2003",
+          "images": []
+        },
+        {
+          "variant_id": "417Db",
+          "notes": "2004",
+          "images": []
+        },
+        {
+          "variant_id": "417Dc",
+          "notes": "2005",
+          "images": []
+        },
+        {
+          "variant_id": "417Dd",
+          "notes": "2006",
+          "images": []
+        },
+        {
+          "variant_id": "417De",
+          "notes": "2007",
+          "images": []
+        },
+        {
+          "variant_id": "417Df",
+          "notes": "2008\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "417Dg",
+          "notes": "2008\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "417Dh",
+          "notes": "2009",
+          "images": []
+        },
+        {
+          "variant_id": "417Di",
+          "notes": "2010",
+          "images": []
+        },
+        {
+          "variant_id": "417Dj",
+          "notes": "2011",
+          "images": []
+        },
+        {
+          "variant_id": "417Dl",
+          "notes": "2012",
+          "images": []
+        },
+        {
+          "variant_id": "417Dm",
+          "notes": "2013",
+          "images": []
+        },
+        {
+          "variant_id": "417Dn",
+          "notes": "2014",
+          "images": []
+        },
+        {
+          "variant_id": "417Do",
+          "notes": "2015",
+          "images": []
+        },
+        {
+          "variant_id": "417Dq",
+          "notes": "2017",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P418D",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P418D",
+      "denomination": 10000.0,
+      "date": "2003-2021",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Catfish \r\n  shaped brass weight of the Ashanti people for weighing gold dust, \r\n  satellite dish",
+      "reverse_info": "Birds (tauroco macrorhynchus)",
+      "title": "West African States 10.000 Francs CFA 2003 P418D",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "418D",
+          "notes": "2020*\n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "418Da",
+          "notes": "2003",
+          "images": []
+        },
+        {
+          "variant_id": "418Db",
+          "notes": "2004",
+          "images": []
+        },
+        {
+          "variant_id": "418Dc",
+          "notes": "2005",
+          "images": []
+        },
+        {
+          "variant_id": "418Dd",
+          "notes": "2006",
+          "images": []
+        },
+        {
+          "variant_id": "418De",
+          "notes": "2007",
+          "images": []
+        },
+        {
+          "variant_id": "418Dg",
+          "notes": "2008",
+          "images": []
+        },
+        {
+          "variant_id": "418Dh",
+          "notes": "2009",
+          "images": []
+        },
+        {
+          "variant_id": "418Di",
+          "notes": "2010",
+          "images": []
+        },
+        {
+          "variant_id": "418Dj",
+          "notes": "2011\n    signatures:",
+          "images": []
+        },
+        {
+          "variant_id": "418Dk",
+          "notes": "2011\n    signatures:\n    \n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "418Dl",
+          "notes": "2012",
+          "images": []
+        },
+        {
+          "variant_id": "418Dm",
+          "notes": "2013",
+          "images": []
+        },
+        {
+          "variant_id": "418Dn",
+          "notes": "2014",
+          "images": []
+        },
+        {
+          "variant_id": "418Do",
+          "notes": "2015",
+          "images": []
+        },
+        {
+          "variant_id": "418Dp",
+          "notes": "2016",
+          "images": []
+        },
+        {
+          "variant_id": "418Dq",
+          "notes": "2017",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P616H",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P616H",
+      "denomination": 2000.0,
+      "date": "2003-2021",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Catfish \r\n  shaped brass weight of the Ashanti people for weighing gold dust, \r\n  train, airplane, airport tower, bus",
+      "reverse_info": "Groupers",
+      "title": "West African States 2.000 Francs CFA 2021 P616H",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-2000 francs-cfa-2003-2021--p616h_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-2000 francs-cfa-2003-2021--p616h_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "616H",
+          "notes": "2008*\n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "616Ha",
+          "notes": "2003",
+          "images": []
+        },
+        {
+          "variant_id": "616Hb",
+          "notes": "2004",
+          "images": []
+        },
+        {
+          "variant_id": "616Hc",
+          "notes": "2005",
+          "images": []
+        },
+        {
+          "variant_id": "616He",
+          "notes": "2007",
+          "images": []
+        },
+        {
+          "variant_id": "616Hh",
+          "notes": "2009",
+          "images": []
+        },
+        {
+          "variant_id": "616Hj",
+          "notes": "2011",
+          "images": []
+        },
+        {
+          "variant_id": "616Hl",
+          "notes": "2012",
+          "images": []
+        },
+        {
+          "variant_id": "616Hm",
+          "notes": "2013",
+          "images": []
+        },
+        {
+          "variant_id": "616Hn",
+          "notes": "2014",
+          "images": []
+        },
+        {
+          "variant_id": "616Ho",
+          "notes": "2015",
+          "images": []
+        },
+        {
+          "variant_id": "616Hp",
+          "notes": "2016",
+          "images": []
+        },
+        {
+          "variant_id": "616Hq",
+          "notes": "2017",
+          "images": []
+        },
+        {
+          "variant_id": "616Hr",
+          "notes": "2018",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P702K",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P702K",
+      "denomination": 500.0,
+      "date": "1959-1965 & ND",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Fieldwork, \r\n  cast bronze head for the altar of Idia, the first Queen Mother \r\n  (Iyoba) of Bénin",
+      "reverse_info": "Woman, tractor",
+      "title": "West African States 500 Francs 1965 P702K",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-500 francs-1959-1965-nd--p702k_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-500 francs-1959-1965-nd--p702k_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "702Ka",
+          "notes": "15.04.1959\n    signatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kb",
+          "notes": "20.03.1961\n    signatures: R. Tezenas du Montcel & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kc",
+          "notes": "20.03.1961\n    signatures: B. Borna & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kd",
+          "notes": "02.12.1964\n    signatures: Alpha Ba Bocar & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Ke",
+          "notes": "02.03.1965\n    signatures: B. U. Yezid & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kf",
+          "notes": "not dated\n    signatures: M. S. M'khaitirat & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kg",
+          "notes": "not dated\n    engraved (Block # P.25 - E.33)\n    signatures: T. M. Garango & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kh",
+          "notes": "not dated\n    lithographed (Block # H.33 - D.35)\n    signatures: T. M. Garango & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Ki",
+          "notes": "not dated\n    signatures: J. Collin & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kj",
+          "notes": "not dated\n    signatures: Babacar Ba & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kk",
+          "notes": "not dated\n    signatures: Edem Kojo & R. Julienne",
+          "images": []
+        },
+        {
+          "variant_id": "702Kl",
+          "notes": "not dated\n    signatures: Edem Kojo & A. Fadiga\n    *",
+          "images": []
+        },
+        {
+          "variant_id": "702Km",
+          "notes": "not dated\n    signatures: H. C. Bedie & A. Fadiga",
+          "images": []
+        },
+        {
+          "variant_id": "702Kn",
+          "notes": "not dated\n    signatures: I. Amoussou & A. Fadiga",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P710K",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P710K",
+      "denomination": 500.0,
+      "date": "1991-2002",
+      "issuer": "Banque Centrale des États de lAfrique de lOuest",
+      "printer": null,
+      "obverse_info": "Flood control dam, \r\n  man",
+      "reverse_info": "Garden tractor",
+      "title": "West African States 500 Francs 2002 P710K",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "710Ka",
+          "notes": "1991",
+          "images": []
+        },
+        {
+          "variant_id": "710Kb",
+          "notes": "1992",
+          "images": []
+        },
+        {
+          "variant_id": "710Kc",
+          "notes": "1993",
+          "images": []
+        },
+        {
+          "variant_id": "710Kd",
+          "notes": "1994",
+          "images": []
+        },
+        {
+          "variant_id": "710Ke",
+          "notes": "1995",
+          "images": []
+        },
+        {
+          "variant_id": "710Kf",
+          "notes": "1996",
+          "images": []
+        },
+        {
+          "variant_id": "710Kg",
+          "notes": "1997\n    10 digits serial #",
+          "images": []
+        },
+        {
+          "variant_id": "710Kh",
+          "notes": "1997\n    11 digits serial #",
+          "images": []
+        },
+        {
+          "variant_id": "710Ki",
+          "notes": "1998",
+          "images": []
+        },
+        {
+          "variant_id": "710Kj",
+          "notes": "1999",
+          "images": []
+        },
+        {
+          "variant_id": "710Kk",
+          "notes": "2000",
+          "images": []
+        },
+        {
+          "variant_id": "710Kl",
+          "notes": "2001",
+          "images": []
+        },
+        {
+          "variant_id": "710Km",
+          "notes": "2002",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P711K",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P711K",
+      "denomination": 1000.0,
+      "date": "1991-2003",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Peanuts hauling, \r\n  Woman",
+      "reverse_info": "Women, riverside storage bins",
+      "title": "West African States 1.000 Francs 2003 P711K",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "711Ka",
+          "notes": "1991",
+          "images": []
+        },
+        {
+          "variant_id": "711Kb",
+          "notes": "1992",
+          "images": []
+        },
+        {
+          "variant_id": "711Kc",
+          "notes": "1993",
+          "images": []
+        },
+        {
+          "variant_id": "711Kd",
+          "notes": "1994",
+          "images": []
+        },
+        {
+          "variant_id": "711Ke",
+          "notes": "1995",
+          "images": []
+        },
+        {
+          "variant_id": "711Kf",
+          "notes": "1996",
+          "images": []
+        },
+        {
+          "variant_id": "711Kg",
+          "notes": "1997",
+          "images": []
+        },
+        {
+          "variant_id": "711Kh",
+          "notes": "1998",
+          "images": []
+        },
+        {
+          "variant_id": "711Ki",
+          "notes": "1999",
+          "images": []
+        },
+        {
+          "variant_id": "711Kj",
+          "notes": "2000",
+          "images": []
+        },
+        {
+          "variant_id": "711Kk",
+          "notes": "2001",
+          "images": []
+        },
+        {
+          "variant_id": "711Kl",
+          "notes": "2002",
+          "images": []
+        },
+        {
+          "variant_id": "711Km",
+          "notes": "2003",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P712K",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P712K",
+      "denomination": 2500.0,
+      "date": "1992-1994",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Hydroelectric dam, \r\n  woman",
+      "reverse_info": "Spraying pesticides",
+      "title": "West African States 2.500 Francs 1994 P712K",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "712Ka",
+          "notes": "1992",
+          "images": []
+        },
+        {
+          "variant_id": "712Kb",
+          "notes": "1993",
+          "images": []
+        },
+        {
+          "variant_id": "712Kc",
+          "notes": "1994",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/west-african-states/P813T",
+      "country": "West African States",
+      "country_slug": "west-african-states",
+      "continent": "Africa",
+      "pick_number": "P813T",
+      "denomination": 5000.0,
+      "date": "1992-2003",
+      "issuer": "Banque Centrale des États de lAfrique  de lOuest",
+      "printer": null,
+      "obverse_info": "Smelting plant, \r\n  Woman",
+      "reverse_info": "Women",
+      "title": "West African States 5.000 Francs 2003 P813T",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/west-african-states-5000-francs-1992-2003-p813t_1.jpg",
+        "https://banknotescollection.com/images/billetes/west-african-states-5000-francs-1992-2003-p813t_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "813Ta",
+          "notes": "1992",
+          "images": []
+        },
+        {
+          "variant_id": "813Tb",
+          "notes": "1993",
+          "images": []
+        },
+        {
+          "variant_id": "813Tc",
+          "notes": "1994",
+          "images": []
+        },
+        {
+          "variant_id": "813Td",
+          "notes": "1995",
+          "images": []
+        },
+        {
+          "variant_id": "813Te",
+          "notes": "1997",
+          "images": []
+        },
+        {
+          "variant_id": "813Tf",
+          "notes": "1998\n    signatures: Niamien Ngoran & Charles Konan Banny",
+          "images": []
+        },
+        {
+          "variant_id": "813Tg",
+          "notes": "1998\n    signatures: Idé Gnandou & Charles Konan Banny",
+          "images": []
+        },
+        {
+          "variant_id": "813Th",
+          "notes": "1999",
+          "images": []
+        },
+        {
+          "variant_id": "813Ti",
+          "notes": "2000",
+          "images": []
+        },
+        {
+          "variant_id": "813Tj",
+          "notes": "2001",
+          "images": []
+        },
+        {
+          "variant_id": "813Tk",
+          "notes": "2002",
+          "images": []
+        },
+        {
+          "variant_id": "813Tl",
+          "notes": "2003",
+          "images": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3624 @@
+{
+  "metadata": {
+    "source": "banknotescollection.com",
+    "filter": "Great Britain",
+    "total_countries": 1,
+    "total_banknotes": 113,
+    "total_images": 653,
+    "errors": 0
+  },
+  "banknotes": [
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P190",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P190",
+      "denomination": 1.0,
+      "date": "1807-1826",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "uniface",
+      "title": "Great Britain  1 Pound 1826 P190",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-1807-1826--p190_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-1807-1826--p190_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-1807-1826--p190-190c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-1807-1826--p190-190c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-1807-1826--p190-190d_1.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "190a",
+          "notes": "handwritten date\n    with countersignature",
+          "images": []
+        },
+        {
+          "variant_id": "190b",
+          "notes": "handwritten date\n    without countersignature",
+          "images": []
+        },
+        {
+          "variant_id": "190c",
+          "notes": "printed date and serial #",
+          "images": []
+        },
+        {
+          "variant_id": "190d",
+          "notes": "printed date and serial #\n    1821 on top and 1825 or 1826 in center (reissue)",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P191",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P191",
+      "denomination": 2.0,
+      "date": "1807-1821",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  191a",
+      "title": "Great Britain  2 Pounds 1821 P191",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--2-pounds-1807-1821--p191_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-pounds-1807-1821--p191_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-pounds-1807-1821--p191-191c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-pounds-1807-1821--p191-191c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "191a",
+          "notes": "handwritten date\n    with countersignature",
+          "images": []
+        },
+        {
+          "variant_id": "191b",
+          "notes": "handwritten date\n    without countersignature",
+          "images": []
+        },
+        {
+          "variant_id": "191c",
+          "notes": "printed date and serial #",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P286",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P286",
+      "denomination": 5.0,
+      "date": "1873-1893",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: F. MayP286",
+      "title": "Great Britain  5 Pounds 1893 P286",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1873-1893--p286_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1873-1893--p286_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1873-1893--p286-p286_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1873-1893--p286-p286_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P304",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P304",
+      "denomination": 5.0,
+      "date": "1902-1918",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: G. NairneP304",
+      "title": "Great Britain  5 Pounds 1918 P304",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1902-1918--p304_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1902-1918--p304_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1902-1918--p304-p304_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1902-1918--p304-p304_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P307",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P307",
+      "denomination": 50.0,
+      "date": "1902-1918",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: G. Nairne307a",
+      "title": "Great Britain  50 Pounds 1918 P307",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1902-1918--p307_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1902-1918--p307_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1902-1918--p307-307b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1902-1918--p307-307b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "307a",
+          "notes": "London",
+          "images": []
+        },
+        {
+          "variant_id": "307b",
+          "notes": "Manchester",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P308",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P308",
+      "denomination": 100.0,
+      "date": "1902-1918",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: G. Nairne308a",
+      "title": "Great Britain  100 Pounds 1918 P308",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1902-1918--p308_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1902-1918--p308_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1902-1918--p308-308b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1902-1918--p308-308b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "308a",
+          "notes": "London",
+          "images": []
+        },
+        {
+          "variant_id": "308b",
+          "notes": "Manchester\n    04.05.1911",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P312",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P312",
+      "denomination": 5.0,
+      "date": "1918-1925",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: M. Harvey312a",
+      "title": "Great Britain  5 Pounds 1925 P312",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312-312a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312-312a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312-312c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312-312c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312-312i_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1918-1925--p312-312i_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "312a",
+          "notes": "place of issue: London\n    31.12.1920",
+          "images": []
+        },
+        {
+          "variant_id": "312b",
+          "notes": "place of issue: Leeds",
+          "images": []
+        },
+        {
+          "variant_id": "312c",
+          "notes": "place of issue: Liverpool",
+          "images": []
+        },
+        {
+          "variant_id": "312d",
+          "notes": "place of issue: Manchester",
+          "images": []
+        },
+        {
+          "variant_id": "312e",
+          "notes": "place of issue: Hull",
+          "images": []
+        },
+        {
+          "variant_id": "312f",
+          "notes": "place of issue: Birmingham",
+          "images": []
+        },
+        {
+          "variant_id": "312g",
+          "notes": "place of issue: Newcastle",
+          "images": []
+        },
+        {
+          "variant_id": "312h",
+          "notes": "place of issue: Plymouth",
+          "images": []
+        },
+        {
+          "variant_id": "312i",
+          "notes": "place of issue: Bristol",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P313",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P313",
+      "denomination": 10.0,
+      "date": "1918-1925",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: M. HarveyP313",
+      "title": "Great Britain  10 Pounds 1925 P313",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1918-1925--p313_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1918-1925--p313_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1918-1925--p313-p313_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1918-1925--p313-p313_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P314",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P314",
+      "denomination": 20.0,
+      "date": "1918-1925",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: M. HarveyP314",
+      "title": "Great Britain  20 Pounds 1925 P314",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1918-1925--p314_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1918-1925--p314_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1918-1925--p314-p314_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1918-1925--p314-p314_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P316",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P316",
+      "denomination": 100.0,
+      "date": "1918-1925",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: M. Harvey316",
+      "title": "Great Britain  100 Pounds 1925 P316",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1918-1925--p316_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1918-1925--p316_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1918-1925--p316-316_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1918-1925--p316-316_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "316",
+          "notes": "16.01.1919",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P320",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P320",
+      "denomination": 5.0,
+      "date": "1925-1929",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: C. P. Mahon320a",
+      "title": "Great Britain  5 Pounds 1929 P320",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320h_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320h_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320i_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1925-1929--p320-320i_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "320a",
+          "notes": "place of issue: London",
+          "images": []
+        },
+        {
+          "variant_id": "320b",
+          "notes": "place of issue: Manchester",
+          "images": []
+        },
+        {
+          "variant_id": "320c",
+          "notes": "place of issue: Leeds",
+          "images": []
+        },
+        {
+          "variant_id": "320d",
+          "notes": "place of issue: Hull",
+          "images": []
+        },
+        {
+          "variant_id": "320e",
+          "notes": "place of issue: Liverpool",
+          "images": []
+        },
+        {
+          "variant_id": "320f",
+          "notes": "place of issue: Birmingham",
+          "images": []
+        },
+        {
+          "variant_id": "320g",
+          "notes": "place of issue: Newcastle",
+          "images": []
+        },
+        {
+          "variant_id": "320h",
+          "notes": "place of issue: Plymouth",
+          "images": []
+        },
+        {
+          "variant_id": "320i",
+          "notes": "place of issue: Bristol",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P328",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P328",
+      "denomination": 5.0,
+      "date": "1929-1934",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: G. Catterns328a",
+      "title": "Great Britain  5 Pounds 1934 P328",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1929-1934--p328_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1929-1934--p328_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1929-1934--p328-328a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1929-1934--p328-328a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1929-1934--p328-328i_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1929-1934--p328-328i_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "328a",
+          "notes": "place of issue: London",
+          "images": []
+        },
+        {
+          "variant_id": "328b",
+          "notes": "place of issue: Leeds",
+          "images": []
+        },
+        {
+          "variant_id": "328c",
+          "notes": "place of issue: Liverpool",
+          "images": []
+        },
+        {
+          "variant_id": "328d",
+          "notes": "place of issue: Manchester",
+          "images": []
+        },
+        {
+          "variant_id": "328e",
+          "notes": "place of issue: Birmingham",
+          "images": []
+        },
+        {
+          "variant_id": "328f",
+          "notes": "place of issue: Newcastle",
+          "images": []
+        },
+        {
+          "variant_id": "328g",
+          "notes": "place of issue: Hull",
+          "images": []
+        },
+        {
+          "variant_id": "328h",
+          "notes": "place of issue: Plymouth",
+          "images": []
+        },
+        {
+          "variant_id": "328i",
+          "notes": "place of issue: Bristol",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P329",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P329",
+      "denomination": 10.0,
+      "date": "1929-1934",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: G. Catterns329a",
+      "title": "Great Britain  10 Pounds 1934 P329",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1929-1934--p329_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1929-1934--p329_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1929-1934--p329-329a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1929-1934--p329-329a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1929-1934--p329-329b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1929-1934--p329-329b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "329a",
+          "notes": "place of issue: London",
+          "images": []
+        },
+        {
+          "variant_id": "329b",
+          "notes": "place of issue: Liverpool",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P330",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P330",
+      "denomination": 20.0,
+      "date": "1929-1934",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: B. G. Catterns330",
+      "title": "Great Britain  20 Pounds 1934 P330",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1929-1934--p330_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1929-1934--p330_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1929-1934--p330-330_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1929-1934--p330-330_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1929-1934--p330-330x_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-1929-1934--p330-330x_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "330",
+          "notes": "1929-1934 / 15.12.1931",
+          "images": []
+        },
+        {
+          "variant_id": "330x",
+          "notes": "\"Operation Bernhard\" counterfeit (produced by specialists in \n    German Concentration Camps)\n    Very difficult to distinguish from genuine notes; generally the conterfeits \n    have differences in the portrait of \"Britannia\"\n    left: genuine - right counterfeit",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P331",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P331",
+      "denomination": 50.0,
+      "date": "1929-1934",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: B. G. Catterns331",
+      "title": "Great Britain  50 Pounds 1934 P331",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1929-1934--p331_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1929-1934--p331_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1929-1934--p331-331_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1929-1934--p331-331_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "331",
+          "notes": "20.06.1930",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P332",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P332",
+      "denomination": 100.0,
+      "date": "1929-1934",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: B. G. CatternsP332",
+      "title": "Great Britain  100 Pounds 1934 P332",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1929-1934--p332_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1929-1934--p332_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1929-1934--p332-p332_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1929-1934--p332-p332_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P335",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P335",
+      "denomination": 5.0,
+      "date": "1934-1944",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: K. O. Peppiatt335a",
+      "title": "Great Britain  5 Pounds 1944 P335",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335-335a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335-335a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335-335ax_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335-335ax_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335-335i_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1934-1944--p335-335i_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "335a",
+          "notes": "London / 19.09.1935",
+          "images": []
+        },
+        {
+          "variant_id": "335ax",
+          "notes": "11.10.1934\n    London\n    \"Operation Bernhard\" counterfeit (produced by specialists in \n    German Concentration Camps)\n    Very difficult to distinguish from genuine notes; generally the conterfeits \n    have differences in the portrait of \"Britannia\"\n    left: genuine - right counterfeit",
+          "images": []
+        },
+        {
+          "variant_id": "335b",
+          "notes": "Liverpool",
+          "images": []
+        },
+        {
+          "variant_id": "335c",
+          "notes": "Manchester",
+          "images": []
+        },
+        {
+          "variant_id": "335d",
+          "notes": "Leeds",
+          "images": []
+        },
+        {
+          "variant_id": "335e",
+          "notes": "Birmingham",
+          "images": []
+        },
+        {
+          "variant_id": "335f",
+          "notes": "Newcastle",
+          "images": []
+        },
+        {
+          "variant_id": "335g",
+          "notes": "Hull",
+          "images": []
+        },
+        {
+          "variant_id": "335h",
+          "notes": "Plymouth",
+          "images": []
+        },
+        {
+          "variant_id": "335i",
+          "notes": "Bristol",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P336",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P336",
+      "denomination": 10.0,
+      "date": "1934-1943",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: K. O. Peppiatt336a",
+      "title": "Great Britain  10 Pounds 1943 P336",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1934-1943--p336_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1934-1943--p336_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1934-1943--p336-336a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1934-1943--p336-336a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1934-1943--p336-336d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-1934-1943--p336-336d_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "336a",
+          "notes": "London / 19.04.1934",
+          "images": []
+        },
+        {
+          "variant_id": "336b",
+          "notes": "Liverpool",
+          "images": []
+        },
+        {
+          "variant_id": "336c",
+          "notes": "Birmingham",
+          "images": []
+        },
+        {
+          "variant_id": "336d",
+          "notes": "Manchester",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P337",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P337",
+      "denomination": 20.0,
+      "date": "8-1934 - 8-1943",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: K. O. Peppiatt337a",
+      "title": "Great Britain  20 Pounds 1934 P337",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337-337a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337-337a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337-337ax_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337-337ax_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337-337d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-8-1934-8-1943--p337-337d_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "337a",
+          "notes": "London / 20.08.1934",
+          "images": []
+        },
+        {
+          "variant_id": "337ax",
+          "notes": "London / 20.09.1934\n    \"Operation Bernhard\" counterfeit (produced by specialists in \n    German Concentration Camps)\n    Very difficult to distinguish from genuine notes; generally the conterfeits \n    have differences in the portrait of \"Britannia\"\n    left: genuine - right counterfeit",
+          "images": []
+        },
+        {
+          "variant_id": "337b",
+          "notes": "Liverpool",
+          "images": []
+        },
+        {
+          "variant_id": "337c",
+          "notes": "Birmingham",
+          "images": []
+        },
+        {
+          "variant_id": "337d",
+          "notes": "Manchester",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P338",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P338",
+      "denomination": 50.0,
+      "date": "1934-1938",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: K. O. Peppiatt338a",
+      "title": "Great Britain  50 Pounds 1938 P338",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1934-1938--p338_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1934-1938--p338_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1934-1938--p338-338a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1934-1938--p338-338a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1934-1938--p338-338c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-1934-1938--p338-338c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "338a",
+          "notes": "London",
+          "images": []
+        },
+        {
+          "variant_id": "338b",
+          "notes": "Manchester",
+          "images": []
+        },
+        {
+          "variant_id": "338c",
+          "notes": "Liverpool",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P339",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P339",
+      "denomination": 100.0,
+      "date": "1934-1943",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: K. O. Peppiatt339a",
+      "title": "Great Britain  100 Pounds 1943 P339",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1934-1943--p339_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1934-1943--p339_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1934-1943--p339-339a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1934-1943--p339-339a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1934-1943--p339-339b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--100-pounds-1934-1943--p339-339b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "339a",
+          "notes": "1934-1943 / 08.06.1937\n    place of issue: London",
+          "images": []
+        },
+        {
+          "variant_id": "339b",
+          "notes": "1934-1938\n    place of issue: Liverpool",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P340",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P340",
+      "denomination": 500.0,
+      "date": "1934-1943",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: K. O. PeppiattP340",
+      "title": "Great Britain  500 Pounds 1943 P340",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--500-pounds-1934-1943--p340_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--500-pounds-1934-1943--p340_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--500-pounds-1934-1943--p340-p340_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--500-pounds-1934-1943--p340-p340_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P341",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P341",
+      "denomination": 1000.0,
+      "date": "1934-1943",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "uniface",
+      "title": "Great Britain  1.000 Pounds 1943 P341",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1000-pounds-1934-1943--p341_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000-pounds-1934-1943--p341_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000-pounds-1934-1943--p341-p341_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000-pounds-1934-1943--p341-p341_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P342",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P342",
+      "denomination": 5.0,
+      "date": "1944-1947",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  thick paper\n    for a similar note issued 1947 with thin paper see GREAT BRITAIN P-343P342",
+      "title": "Great Britain  5 Pounds 1947 P342",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1944-1947--p342_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1944-1947--p342_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1944-1947--p342-p342_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1944-1947--p342-p342_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P343",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P343",
+      "denomination": 5.0,
+      "date": "1947",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  thin paper\n    for similar notes issued 1944-1947 with thick paper see \n    GREAT BRITAIN P-342P343",
+      "title": "Great Britain  5 Pounds 1947 P343",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1947--p343_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1947--p343_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1947--p343-p343_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1947--p343-p343_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P344",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P344",
+      "denomination": 5.0,
+      "date": "1949-1955",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: D. S. BealeP344",
+      "title": "Great Britain  5 Pounds 1955 P344",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1949-1955--p344_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1949-1955--p344_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1949-1955--p344-p344_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1949-1955--p344-p344_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P345",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P345",
+      "denomination": 5.0,
+      "date": "1955 & 1956",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  Signature: L. K. OBrienP345",
+      "title": "Great Britain  5 Pounds 1955 P345",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1955-amp-1956--p345_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1955-amp-1956--p345_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1955-amp-1956--p345-p345_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-1955-amp-1956--p345-p345_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P346",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P346",
+      "denomination": 10.0,
+      "date": "ND (1914)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  George V",
+      "obverse_info": "George V",
+      "reverse_info": "Notas:  P346",
+      "title": "Great Britain  10 Shillings 1914 P346",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1914--p346_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1914--p346_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1914--p346-p346_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1914--p346-p346_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P347",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P347",
+      "denomination": 1.0,
+      "date": "ND (1914)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  George V",
+      "obverse_info": "George V",
+      "reverse_info": "Notas:  P347",
+      "title": "Great Britain  1 Pound 1914 P347",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914--p347_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914--p347_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914--p347-p347_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914--p347-p347_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P348",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P348",
+      "denomination": 10.0,
+      "date": "ND (1915)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  George V, St. George",
+      "obverse_info": "George V, St. George",
+      "reverse_info": "Notas:  348a",
+      "title": "Great Britain  10 Shillings 1915 P348",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1915--p348_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1915--p348_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1915--p348-348a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1915--p348-348a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1915--p348-348b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1915--p348-348b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "348a",
+          "notes": "issued note",
+          "images": []
+        },
+        {
+          "variant_id": "348b",
+          "notes": "overprint in Turkish (Arabic script) - \"60 Silver Piastres\"",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P349",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P349",
+      "denomination": 1.0,
+      "date": "ND (1914-1915)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  George V, St. George",
+      "obverse_info": "George V, St. George",
+      "reverse_info": "Notas:  349a",
+      "title": "Great Britain  1 Pound 1914 P349",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914-1915--p349_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914-1915--p349_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914-1915--p349-349a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914-1915--p349-349a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914-1915--p349-349b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1914-1915--p349-349b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "349a",
+          "notes": "issued note",
+          "images": []
+        },
+        {
+          "variant_id": "349b",
+          "notes": "overprint in Turkish (Arabic script) - \"120 Silver Piastres\"",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P350",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P350",
+      "denomination": 10.0,
+      "date": "ND (1918)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Britannia, George V",
+      "obverse_info": "Britannia, George V",
+      "reverse_info": "Notas:  for similar notes with signature Warren Fisher see\n    GREAT BRITAIN P-356 & GREAT \n    BRITAIN P-358 & GREAT BRITAIN P-360350a",
+      "title": "Great Britain  10 Shillings 1918 P350",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1918--p350_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1918--p350_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1918--p350-350a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1918--p350-350a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1918--p350-350b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1918--p350-350b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "350a",
+          "notes": "black serial #",
+          "images": []
+        },
+        {
+          "variant_id": "350b",
+          "notes": "red serial #",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P351",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P351",
+      "denomination": 1.0,
+      "date": "ND (1918)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  St. George killing dragon; George V",
+      "obverse_info": "St. George killing dragon; George V",
+      "reverse_info": "Westminster Palace, London",
+      "title": "Great Britain  1 Pound 1918 P351",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1918--p351_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1918--p351_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1918--p351-351_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1918--p351-351_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "351",
+          "notes": "text \"UNITED KINGDOM OF GREAT BRITAIN AND IRELAND\" in two \n    lines\n    small format",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P352",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P352",
+      "denomination": 5.0,
+      "date": "ND (1919)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  George V",
+      "obverse_info": "George V",
+      "reverse_info": "Notas:  Signature: N. K. Warren FisherP352",
+      "title": "Great Britain  5 Shillings 1919 P352",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1919--p352_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1919--p352_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1919--p352-p352_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1919--p352-p352_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P354",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P354",
+      "denomination": 2.0,
+      "date": "ND (1919)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  George V",
+      "obverse_info": "George V",
+      "reverse_info": "Arms",
+      "title": "Great Britain  2 Shillings 6 Pence 1919 P354",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1919--p354_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1919--p354_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1919--p354-p354_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1919--p354-p354_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P356",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P356",
+      "denomination": 10.0,
+      "date": "ND (1919)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Britannia, George V",
+      "obverse_info": "Britannia, George V",
+      "reverse_info": "Notas:  for a similar note with signature \n    Bradbury see GREAT BRITAIN P-350\n    with \"№\" between Block and serial #\n    for a similar note without \"№\" between Block and serial # see\n    GREAT BRITAIN P-358\n    title \"UNITED KINGDOM OF GREAT BRITAIN \n    AND IRELAND\"\n    for a similar note with title \"UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN \n    IRELAND see\n    GREAT BRITAIN P-360P356",
+      "title": "Great Britain  10 Shillings 1919 P356",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1919--p356_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1919--p356_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1919--p356-p356_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1919--p356-p356_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P357",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P357",
+      "denomination": 1.0,
+      "date": "ND (1919)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  St. George killing dragon; George V",
+      "obverse_info": "St. George killing dragon; George V",
+      "reverse_info": "Westminster Palace, London",
+      "title": "Great Britain  1 Pound 1919 P357",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1919--p357_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1919--p357_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1919--p357-p357_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1919--p357-p357_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P358",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P358",
+      "denomination": 10.0,
+      "date": "ND (1922-1923)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Britannia; George V",
+      "obverse_info": "Britannia; George V",
+      "reverse_info": "Notas:  without \"№\" between Block and serial #\n    for a similar note with \"№\" between Block and serial # see\n    GREAT BRITAIN P-356\n    title \"UNITED KINGDOM OF GREAT BRITAIN \n    AND IRELAND\"\n    for a similar note with title \"UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN \n    IRELAND see\n    GREAT BRITAIN P-360P358",
+      "title": "Great Britain  10 Shillings 1922 P358",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1922-1923--p358_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1922-1923--p358_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1922-1923--p358-p358_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1922-1923--p358-p358_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P359",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P359",
+      "denomination": 1.0,
+      "date": "ND (1922-1923)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  St. George killing dragon; George V",
+      "obverse_info": "St. George killing dragon; George V",
+      "reverse_info": "Westminster Palace, London",
+      "title": "Great Britain  1 Pound 1922 P359",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1922-1923--p359_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1922-1923--p359_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1922-1923--p359-359a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1922-1923--p359-359a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1922-1923--p359-359b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1922-1923--p359-359b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "359a",
+          "notes": "round dot below \"o\" of \"№\"",
+          "images": []
+        },
+        {
+          "variant_id": "359b",
+          "notes": "square dot below \"o\" of \"№\"",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P360",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P360",
+      "denomination": 10.0,
+      "date": "ND (1928)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Britannia; George V",
+      "obverse_info": "Britannia; George V",
+      "reverse_info": "Notas:  title \"UNITED KINGDOM OF GREAT BRITAIN \n    AND NORTHERN IRELAND\"\n    for similar notes with title \"UNITED KINGDOM OF GREAT BRITAIN AND IRELAND \n    see\n    GREAT BRITAIN P-356 & GREAT \n    BRITAIN P-358P360",
+      "title": "Great Britain  10 Shillings 1928 P360",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928--p360_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928--p360_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928--p360-p360_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928--p360-p360_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P361",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P361",
+      "denomination": 1.0,
+      "date": "ND (1928)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  St. George killing dragon; George V",
+      "obverse_info": "St. George killing dragon; George V",
+      "reverse_info": "Westminster Palace, London",
+      "title": "Great Britain  1 Pound 1928 P361",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928--p361_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928--p361_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928--p361-361a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928--p361-361a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928--p361-361b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928--p361-361b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "361a",
+          "notes": "round dot below \"o\" of \"№\"",
+          "images": []
+        },
+        {
+          "variant_id": "361b",
+          "notes": "square dot below \"o\" of \"№\"",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P361A",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P361A",
+      "denomination": 1000000.0,
+      "date": "30.08.1948",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Notas:  P361A",
+      "title": "Great Britain  1.000.000 Pounds 1948 P361A",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-30081948--p361a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-30081948--p361a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-30081948--p361a-p361a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-30081948--p361a-p361a_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P361B",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P361B",
+      "denomination": 1000000.0,
+      "date": "08.09.2003",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Notas:  P361B",
+      "title": "Great Britain  1.000.000 Pounds 2003 P361B",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-08092003--p361b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-08092003--p361b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-08092003--p361b-p361b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1000000-pounds-08092003--p361b-p361b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P362",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P362",
+      "denomination": 10.0,
+      "date": "ND (1928-1948)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  without security thread\n    for similar later notes with security thread see GREAT \n    BRITAIN P-368362a",
+      "title": "Great Britain  10 Shillings 1928 P362",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1928-1948--p362-362d_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "362a",
+          "notes": "signature: C. P. Mahon",
+          "images": []
+        },
+        {
+          "variant_id": "362b",
+          "notes": "signature: B. G. Catterns",
+          "images": []
+        },
+        {
+          "variant_id": "362c",
+          "notes": "signature: K. O. Peppiatt\n    all series except L",
+          "images": []
+        },
+        {
+          "variant_id": "362d",
+          "notes": "signature: K. O. Peppiatt\n    series L",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P363",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P363",
+      "denomination": 1.0,
+      "date": "ND (1928-1948)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Bank of England building, coins",
+      "title": "Great Britain  1 Pound 1928 P363",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363d_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363g_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363g_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363h_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363h_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363i_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363i_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363j_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1928-1948--p363-363j_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "363a",
+          "notes": "signature: C. P. Mahon",
+          "images": []
+        },
+        {
+          "variant_id": "363b",
+          "notes": "signature: B. G. Catterns",
+          "images": []
+        },
+        {
+          "variant_id": "363c",
+          "notes": "signature: K. O. Peppiatt\n    xxA - xxZ & AxxA - LxxA* \n    not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "363d",
+          "notes": "signature: K. O. Peppiatt\n    series letters RxxA & SxxA",
+          "images": []
+        },
+        {
+          "variant_id": "363e",
+          "notes": "signature: C. P. Mahon\n    overprint: \"Withdrawn from Circulation September 18th, 1941\"",
+          "images": []
+        },
+        {
+          "variant_id": "363f",
+          "notes": "signature: B. G. Catterns\n    overprint: \"Withdrawn from Circulation September 18th, 1941\"",
+          "images": []
+        },
+        {
+          "variant_id": "363g",
+          "notes": "signature: K. O. Peppiatt\n    overprint: \"Withdrawn from Circulation September 18th, 1941\"\n    series: B, C, D, E, H, J, K, L, M, N, O, R, S, T, U, W, X, Y, Z",
+          "images": []
+        },
+        {
+          "variant_id": "363h",
+          "notes": "signature: K. O. Peppiatt\n    overprint: \"Withdrawn from Circulation September 18th, 1941\"\n    series: AxxA, BxxA, CxxA, DxxA, ExxA, HxxA, JxxA, KxxA, LxxA*\n    * not listed in catalog",
+          "images": []
+        },
+        {
+          "variant_id": "363i",
+          "notes": "signature: K. O. Peppiatt\n    overprint: \"Withdrawn from Circulation November 10th, 1941\" \n    on front and back\n    series E03A",
+          "images": []
+        },
+        {
+          "variant_id": "363j",
+          "notes": "signature: K. O. Peppiatt\n    overprint: \"Withdrawn from Circulation November 10th, 1941\" \n    on back only\n    series E15A",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P364",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P364",
+      "denomination": 2.0,
+      "date": "ND (1941)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  not issuedP364",
+      "title": "Great Britain  2 Shillings 6 Pence = ½ Crown 1941 P364",
+      "notes": null,
+      "images": [],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P365",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P365",
+      "denomination": 5.0,
+      "date": "ND (1941)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  not issuedP365",
+      "title": "Great Britain  5 Shillings 1941 P365",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1941--p365_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1941--p365_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1941--p365-p365_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1941--p365-p365_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P366",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P366",
+      "denomination": 10.0,
+      "date": "ND (1940-1948)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  mauve color\n    paper with security thread\n    for a similar later note see GREAT BRITAIN P-368P366",
+      "title": "Great Britain  10 Shillings 1940 P366",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1940-1948--p366_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1940-1948--p366_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1940-1948--p366-p366_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1940-1948--p366-p366_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P367",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P367",
+      "denomination": 1.0,
+      "date": "ND (1940-1948)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Bank of England building, coins",
+      "title": "Great Britain  1 Pound 1940 P367",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1940-1948--p367_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1940-1948--p367_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1940-1948--p367-367a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1940-1948--p367-367a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "367a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P368",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P368",
+      "denomination": 10.0,
+      "date": "ND (1948-1960)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Notas:  paper with security thread\n    for a similar earlier note without security thread see GREAT BRITAIN P-362368a",
+      "title": "Great Britain  10 Shillings 1948 P368",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368-368a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368-368a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368-368b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368-368b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368-368c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948-1960--p368-368c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "368a",
+          "notes": "signature: K. O. Peppiatt",
+          "images": []
+        },
+        {
+          "variant_id": "368b",
+          "notes": "signature: P. S. Beale",
+          "images": []
+        },
+        {
+          "variant_id": "368c",
+          "notes": "signature: L. K. O'Brien",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P369",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P369",
+      "denomination": 1.0,
+      "date": "ND (1948-1960)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Bank of England building, coins",
+      "title": "Great Britain  1 Pound 1948 P369",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948-1960--p369-369d_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "369a",
+          "notes": "signature: K. O. Peppiatt",
+          "images": []
+        },
+        {
+          "variant_id": "369b",
+          "notes": "signature: B. S. Beale",
+          "images": []
+        },
+        {
+          "variant_id": "369c",
+          "notes": "signature: L. K. O'Brien",
+          "images": []
+        },
+        {
+          "variant_id": "369d",
+          "notes": "signature: K. O. Peppiatt\n    with light blue cross at end of ... Demand",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P371",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P371",
+      "denomination": 5.0,
+      "date": "ND (1957-1967)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Lion",
+      "title": "Great Britain  5 Pounds 1957 P371",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1957-1967--p371_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1957-1967--p371_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1957-1967--p371-371a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1957-1967--p371-371a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "371a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P372",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P372",
+      "denomination": 5.0,
+      "date": "ND (1961-1963)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Britannia",
+      "obverse_info": "Britannia",
+      "reverse_info": "Lion",
+      "title": "Great Britain  5 Pounds 1961 P372",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1961-1963--p372_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1961-1963--p372_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1961-1963--p372-372a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1961-1963--p372-372a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "372a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P373",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P373",
+      "denomination": 10.0,
+      "date": "ND (1960-1970)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Britannia",
+      "title": "Great Britain  10 Shillings 1960 P373",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373-373a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373-373a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373-373b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373-373b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373-373c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1960-1970--p373-373c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "373a",
+          "notes": "signature: L. K. O'Brien",
+          "images": []
+        },
+        {
+          "variant_id": "373b",
+          "notes": "signature: J. Q. Hollom",
+          "images": []
+        },
+        {
+          "variant_id": "373c",
+          "notes": "signature: J. S. Fforde",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P374",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P374",
+      "denomination": 1.0,
+      "date": "ND (1960-1977)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Britannia",
+      "title": "Great Britain  1 Pound 1960 P374",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374d_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374e_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374e_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374f_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374f_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374g_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1960-1977--p374-374g_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "374a",
+          "notes": "signature: L. K. O'Brien\n    without small letter \"R\" at lower left near guilloche on back",
+          "images": []
+        },
+        {
+          "variant_id": "374b",
+          "notes": "signature: L. K. O'Brien\n    small Letter \"R\" (Research) at lower left near guilloche on back (Web Press)\n    \n    serial # prefixes A01N, A05N, A06N",
+          "images": []
+        },
+        {
+          "variant_id": "374c",
+          "notes": "signature: J. Q. Hollom\n    without small letter \"G\" at lower left near guilloche on back",
+          "images": []
+        },
+        {
+          "variant_id": "374d",
+          "notes": "signature: J. Q. Hollom\n    small Letter \"G\" (Goebel) at lower left near guilloche on back (printed on \n    experimental German Goebel Press)",
+          "images": []
+        },
+        {
+          "variant_id": "374e",
+          "notes": "signature: J. S. Fforde\n    without small letter \"G\" at lower left near guilloche on back",
+          "images": []
+        },
+        {
+          "variant_id": "374f",
+          "notes": "signature: J. S. Fforde\n    small letter \"G\" (Goebel) at lower left near guilloche on back (printed on \n    experimental German Goebel Press)",
+          "images": []
+        },
+        {
+          "variant_id": "374g",
+          "notes": "signature: J. B. Page",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P375",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P375",
+      "denomination": 5.0,
+      "date": "ND (1963-1971)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Britannia",
+      "title": "Great Britain  5 Pounds 1963 P375",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375-375a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375-375a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375-375b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375-375b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375-375c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1963-1971--p375-375c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "375a",
+          "notes": "signature: J. Q. Hollom",
+          "images": []
+        },
+        {
+          "variant_id": "375b",
+          "notes": "signature: J. S. Fforde",
+          "images": []
+        },
+        {
+          "variant_id": "375c",
+          "notes": "signature: J. B. Page",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P376",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P376",
+      "denomination": 10.0,
+      "date": "ND (1964-1975)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Lion",
+      "title": "Great Britain  10 Pounds 1964 P376",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376r_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1964-1975--p376-376r_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "376a",
+          "notes": "signature: J. Q. Hollom",
+          "images": []
+        },
+        {
+          "variant_id": "376b",
+          "notes": "signature: J. S. Fforde",
+          "images": []
+        },
+        {
+          "variant_id": "376c",
+          "notes": "signature: J. B. Page\n    all serial # prefixes except M",
+          "images": []
+        },
+        {
+          "variant_id": "376r",
+          "notes": "signature: J. B. Page\n    serial # prefix M (Replacement note)",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P377",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P377",
+      "denomination": 1.0,
+      "date": "ND (1978-1984)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Sir Isaac Newton",
+      "title": "Great Britain  1 Pound 1978 P377",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1978-1984--p377_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1978-1984--p377_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1978-1984--p377-377a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1978-1984--p377-377a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1978-1984--p377-377b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1978-1984--p377-377b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "377a",
+          "notes": "signature: J. B. Page",
+          "images": []
+        },
+        {
+          "variant_id": "377b",
+          "notes": "signature: D. H. F. Somerset",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P378",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P378",
+      "denomination": 5.0,
+      "date": "ND (1971-1991)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Battle in Spain, Duke of Wellington",
+      "title": "Great Britain  5 Pounds 1971 P378",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378d_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378e_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378e_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378f_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1971-1991--p378-378f_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "378a",
+          "notes": "signature: J. B. Page\n    without small L (\"Litho\") at lower left on back",
+          "images": []
+        },
+        {
+          "variant_id": "378b",
+          "notes": "signature: J. B. Page\n    with small L (\"Litho\") at lower left on back",
+          "images": []
+        },
+        {
+          "variant_id": "378c",
+          "notes": "signature: D. H. F. Somerset\n    thin security thread",
+          "images": []
+        },
+        {
+          "variant_id": "378d",
+          "notes": "without signature",
+          "images": []
+        },
+        {
+          "variant_id": "378e",
+          "notes": "signature: D. H. F. Somerset\n    wide security thread",
+          "images": []
+        },
+        {
+          "variant_id": "378f",
+          "notes": "signature: G. M. Gill",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P379",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P379",
+      "denomination": 10.0,
+      "date": "ND (1975-1992)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Hospital scene in Scutari (Turkey), Florence Nightingale \n    (\"Lady with the Lamp\")",
+      "title": "Great Britain  10 Pounds 1975 P379",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379d_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379e_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379e_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379f_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-nd-1975-1992--p379-379f_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "379a",
+          "notes": "signature: J. B. Page",
+          "images": []
+        },
+        {
+          "variant_id": "379b",
+          "notes": "signature: D. H. F. Somerset\n    solid security thread\n    without small L (\"Litho\") at lower left on back",
+          "images": []
+        },
+        {
+          "variant_id": "379c",
+          "notes": "signature: D. H. F. Somerset\n    solid security thread\n    with small L (\"Litho\") at lower left on back",
+          "images": []
+        },
+        {
+          "variant_id": "379d",
+          "notes": "signature: D. H. F. Somerset\n    segmented security thread",
+          "images": []
+        },
+        {
+          "variant_id": "379e",
+          "notes": "signature: G. M. Gill\n    segmented security thread",
+          "images": []
+        },
+        {
+          "variant_id": "379f",
+          "notes": "signature: G. E. A. Kentfield\n    segmented security thread",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P380",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P380",
+      "denomination": 20.0,
+      "date": "ND (1970-1991)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "William Shakespeare",
+      "title": "Great Britain  20 Pounds 1970 P380",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380d_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380e_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-nd-1970-1991--p380-380e_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "380a",
+          "notes": "signature: J. S. Fforde",
+          "images": []
+        },
+        {
+          "variant_id": "380b",
+          "notes": "signature: J. B. Page",
+          "images": []
+        },
+        {
+          "variant_id": "380c",
+          "notes": "signature: D. H. F. Somerset\n    watermark: Elizabeth II",
+          "images": []
+        },
+        {
+          "variant_id": "380d",
+          "notes": "signature: D. H. F. Somerset\n    watermark: Shakespeare",
+          "images": []
+        },
+        {
+          "variant_id": "380e",
+          "notes": "signature: G. M. Gill",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P381",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P381",
+      "denomination": 50.0,
+      "date": "ND (1981-1993)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "St. Paul's Cathedral, London; Sir Christopher Wren",
+      "title": "Great Britain  50 Pounds 1981 P381",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381-381a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381-381a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381-381b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381-381b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381-381c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-nd-1981-1993--p381-381c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "381a",
+          "notes": "signature: D. H. F. Somerset",
+          "images": []
+        },
+        {
+          "variant_id": "381b",
+          "notes": "signature: G. M. Gill",
+          "images": []
+        },
+        {
+          "variant_id": "381c",
+          "notes": "signature: G. E: A. Kentfield",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P382",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P382",
+      "denomination": 5.0,
+      "date": "© 1990 (1990-2002)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Rocket locomotive, George Stephenson",
+      "title": "Great Britain  5 Pounds 1990 P382",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1990-2002--p382_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1990-2002--p382_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1990-2002--p382-382a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1990-2002--p382-382a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1990-2002--p382-382b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1990-2002--p382-382b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "382a",
+          "notes": "signature: G. M. Gill",
+          "images": []
+        },
+        {
+          "variant_id": "382b",
+          "notes": "signature: G. E. A. Kentfield\n    light numeral at upper left on front",
+          "images": []
+        },
+        {
+          "variant_id": "382c",
+          "notes": "signature: M. Lowther",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P382A",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P382A",
+      "denomination": 5.0,
+      "date": "© 1990 (1999-2002)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Rocket locomotive, George Stephenson",
+      "title": "Great Britain  5 Pounds 1990 P382A",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1999-2002--p382a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1999-2002--p382a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1999-2002--p382a-382aa_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1999-2002--p382a-382aa_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1999-2002--p382a-382ab_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1999-2002--p382a-382ab_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "382Aa",
+          "notes": "signature: G. E. A. Kentfield\n    for this note with serial # prefix HK see GREAT \n    BRITAIN CS 7",
+          "images": []
+        },
+        {
+          "variant_id": "382Ab",
+          "notes": "signature: M. Lowther",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P383",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P383",
+      "denomination": 10.0,
+      "date": "© 1992 (1992-1993)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Cricket match, Charles Dickens",
+      "title": "Great Britain  10 Pounds 1992 P383",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1992-1992-1993--p383_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1992-1992-1993--p383_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "383a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P384",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P384",
+      "denomination": 20.0,
+      "date": "© 1991 (1991-1993)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Students, Michael Faraday",
+      "title": "Great Britain  20 Pounds 1991 P384",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1991-1991-1993--p384_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1991-1991-1993--p384_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1991-1991-1993--p384-384a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1991-1991-1993--p384-384a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1991-1991-1993--p384-384b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1991-1991-1993--p384-384b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "384a",
+          "notes": "signature: G. M. Gill",
+          "images": []
+        },
+        {
+          "variant_id": "384b",
+          "notes": "signature: G. E. A. Kentfield",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P386",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P386",
+      "denomination": 10.0,
+      "date": "© 1993 (1993-2000)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Cricket match, Charles Dickens",
+      "title": "Great Britain  10 Pounds 1993 P386",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1993-1993-2000--p386_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1993-1993-2000--p386_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1993-1993-2000--p386-386a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1993-1993-2000--p386-386a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1993-1993-2000--p386-386b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-1993-1993-2000--p386-386b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "386a",
+          "notes": "signature: G. E. A. Kentfield",
+          "images": []
+        },
+        {
+          "variant_id": "386b",
+          "notes": "signature: M. Lowther",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P387",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P387",
+      "denomination": 20.0,
+      "date": "© 1993 (1993-2006)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Students, Michael Faraday",
+      "title": "Great Britain  20 Pounds 1993 P387",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1993-1993-2006--p387_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1993-1993-2006--p387_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1993-1993-2006--p387-387a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1993-1993-2006--p387-387a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1993-1993-2006--p387-387b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1993-1993-2006--p387-387b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "387a",
+          "notes": "signature: G. E. A. Kentfield",
+          "images": []
+        },
+        {
+          "variant_id": "387b",
+          "notes": "signature: M. Lowther",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P388",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P388",
+      "denomination": 50.0,
+      "date": "© 1994 (1993-...)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Bank gatekeeper, Sir J. Houblon",
+      "title": "Great Britain  50 Pounds 1994 P388",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388-388a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388-388a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388-388b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388-388b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388-388c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-1994-1993--p388-388c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "388a",
+          "notes": "signature: G. E. A. Kentfield",
+          "images": []
+        },
+        {
+          "variant_id": "388b",
+          "notes": "signature: M. Lowther",
+          "images": []
+        },
+        {
+          "variant_id": "388c",
+          "notes": "signature: A. Bailey",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P389",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P389",
+      "denomination": 10.0,
+      "date": "© 2000",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Hummingbird, Charles Darwin",
+      "title": "Great Britain  10 Pounds 2000 P389",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389d_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389e_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2000--p389-389e_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "389a",
+          "notes": "signature: M. Lowther\n    \n    © Notice around watermark area on back \n    reads: \"The Governor AND THE Company of the Bank of England\"",
+          "images": []
+        },
+        {
+          "variant_id": "389b",
+          "notes": "signature M. Lowther\n    \n    © Notice around watermark area on back \n    reads: \"The Governor AND Company of the Bank of England\"",
+          "images": []
+        },
+        {
+          "variant_id": "389c",
+          "notes": "signature: A. Bailey",
+          "images": []
+        },
+        {
+          "variant_id": "389d",
+          "notes": "signature: C. Salmon",
+          "images": []
+        },
+        {
+          "variant_id": "389e",
+          "notes": "signature: V. Cleland",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P390",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P390",
+      "denomination": 20.0,
+      "date": "© 1999 (1999-2006)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Worcester Cathedral, angel, Sir Edward Elgar",
+      "title": "Great Britain  20 Pounds 1999 P390",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1999-1999-2006--p390_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1999-1999-2006--p390_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1999-1999-2006--p390-390a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1999-1999-2006--p390-390a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1999-1999-2006--p390-390b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-1999-1999-2006--p390-390b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "390",
+          "notes": "signature: V. Cleland*\n    * not existing; to be listed as GREAT BRITAIN \n    P-392c",
+          "images": []
+        },
+        {
+          "variant_id": "390a",
+          "notes": "signature: M. Lowther",
+          "images": []
+        },
+        {
+          "variant_id": "390b",
+          "notes": "signature: A. Bailey",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P391",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P391",
+      "denomination": 5.0,
+      "date": "© 2002",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Women and children in workhouse, Elizabeth Fry",
+      "title": "Great Britain  5 Pounds 2002 P391",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2002--p391-391d_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "391a",
+          "notes": "signature: M. Lowther\n    from series HA01\n    serial # on varnished paper easily rubbed off\n    withdrawn shortly after issue",
+          "images": []
+        },
+        {
+          "variant_id": "391b",
+          "notes": "signature: M. Lowther\n    from series HC01",
+          "images": []
+        },
+        {
+          "variant_id": "391c",
+          "notes": "signature: A. Bailey",
+          "images": []
+        },
+        {
+          "variant_id": "391d",
+          "notes": "signature: C. Salmon",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P392",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P392",
+      "denomination": 20.0,
+      "date": "© 2006",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II, Bank of England building",
+      "obverse_info": "Elizabeth II, Bank of England building",
+      "reverse_info": "Adam Smith, early manufactory",
+      "title": "Great Britain  20 Pounds 2006 P392",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392-392_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392-392_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392-392a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392-392a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392-392b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2006--p392-392b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "392",
+          "notes": "signature: V. Cleland *\n    * eroneously listed in catalog as GREAT BRITAIN P-390c",
+          "images": []
+        },
+        {
+          "variant_id": "392a",
+          "notes": "signature: A. Bailey",
+          "images": []
+        },
+        {
+          "variant_id": "392b",
+          "notes": "signature: C. Salmon",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P393",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P393",
+      "denomination": 50.0,
+      "date": "© 2010",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II, Bank of England building",
+      "obverse_info": "Elizabeth II, Bank of England building",
+      "reverse_info": "Matthew Boulton, James Watt\n    Boulton's Soho factory, Whitbread steam engine",
+      "title": "Great Britain  50 Pounds 2010 P393",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2010--p393_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2010--p393_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2010--p393-393a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2010--p393-393a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2010--p393-393b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2010--p393-393b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "393a",
+          "notes": "signature: C. Salmon",
+          "images": []
+        },
+        {
+          "variant_id": "393b",
+          "notes": "signature: V. Cleland",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P394",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P394",
+      "denomination": 5.0,
+      "date": "© 2015",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Sir Winston Churchill, Westminster Palace",
+      "title": "Great Britain  5 Pounds 2015 P394",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2015--p394_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2015--p394_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2015--p394-p394_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-2015--p394-p394_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/P395",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "P395",
+      "denomination": 10.0,
+      "date": "© 2016",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Jane Austen\n    Elizabeth Bennet (protagonist of the novel \"Pride and Prejudice\" by Jane \n    Austin), Godmersham Park House",
+      "title": "Great Britain  10 Pounds 2016 P395",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2016--p395_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2016--p395_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2016--p395-395_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-pounds-©-2016--p395-395_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "395",
+          "notes": "signature: V. Cleland",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PCS7",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PCS7",
+      "denomination": 5.0,
+      "date": "© 1990 (1997)",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Rocket locomotive, George Stephenson",
+      "title": "Great Britain  5 Pounds 1990 PCS7",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1997--pcs7_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1997--pcs7_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1997--pcs7-pcs7_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-©-1990-1997--pcs7-pcs7_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM1",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM1",
+      "denomination": 6.0,
+      "date": "ND (1943)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Crown and lion",
+      "obverse_info": "Crown and lion",
+      "reverse_info": "Notas:  Purpose: Use for the British troups in North \n    AfricaPM1",
+      "title": "Great Britain  6 Pence 1943 PM1",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1943--pm1_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1943--pm1_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1943--pm1-pm1_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1943--pm1-pm1_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM2",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM2",
+      "denomination": 1.0,
+      "date": "ND (1943)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Crown and lion",
+      "obverse_info": "Crown and lion",
+      "reverse_info": "Notas:  Purpose: Use for the British troups in North \n    AfricaPM2",
+      "title": "Great Britain  1 Shilling 1943 PM2",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1943--pm2_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1943--pm2_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1943--pm2-pm2_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1943--pm2-pm2_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM3",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM3",
+      "denomination": 2.0,
+      "date": "ND (1943)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Crown and lion",
+      "obverse_info": "Crown and lion",
+      "reverse_info": "Notas:  Purpose: Use for the British troups in North \n    AfricaPM3",
+      "title": "Great Britain  2 Shillings 6 Pence 1943 PM3",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1943--pm3_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1943--pm3_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1943--pm3-pm3_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1943--pm3-pm3_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM4",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM4",
+      "denomination": 5.0,
+      "date": "ND (1943)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Crown and lion",
+      "obverse_info": "Crown and lion",
+      "reverse_info": "Notas:  Purpose: Use for the British troups in North \n    AfricaPM4",
+      "title": "Great Britain  5 Shillings 1943 PM4",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1943--pm4_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1943--pm4_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1943--pm4-pm4_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1943--pm4-pm4_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM5",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM5",
+      "denomination": 10.0,
+      "date": "ND (1943)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Crown and lion",
+      "obverse_info": "Crown and lion",
+      "reverse_info": "Notas:  Purpose: Use for the British troups in North \n    AfricaPM5",
+      "title": "Great Britain  10 Shillings 1943 PM5",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1943--pm5_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1943--pm5_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1943--pm5-pm5_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1943--pm5-pm5_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM6",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM6",
+      "denomination": 1.0,
+      "date": "ND (1943)",
+      "issuer": null,
+      "printer": "Informacion del anverso:  Crown and lion",
+      "obverse_info": "Crown and lion",
+      "reverse_info": "Notas:  Purpose: Use for the British troups in North \n    AfricaM6a",
+      "title": "Great Britain  1 Pound 1943 PM6",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6-m6a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6-m6a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6-m6b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6-m6b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6-m6d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1943--pm6-m6d_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM9",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM9",
+      "denomination": 3.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM9a",
+      "title": "Great Britain  3 Pence 1946 PM9",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1946--pm9_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1946--pm9_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1946--pm9-m9a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1946--pm9-m9a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1946--pm9-m9b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1946--pm9-m9b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM10",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM10",
+      "denomination": 6.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM10a",
+      "title": "Great Britain  6 Pence 1946 PM10",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1946--pm10_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1946--pm10_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1946--pm10-m10a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1946--pm10-m10a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1946--pm10-m10b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1946--pm10-m10b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM11",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM11",
+      "denomination": 1.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM11a",
+      "title": "Great Britain  1 Shilling 1946 PM11",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1946--pm11_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1946--pm11_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1946--pm11-m11a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1946--pm11-m11a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1946--pm11-m11b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1946--pm11-m11b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM12",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM12",
+      "denomination": 2.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM12a",
+      "title": "Great Britain  2 Shillings 6 Pence 1946 PM12",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1946--pm12_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1946--pm12_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1946--pm12-m12a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1946--pm12-m12a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1946--pm12-m12b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1946--pm12-m12b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM13",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM13",
+      "denomination": 5.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM13a",
+      "title": "Great Britain  5 Shillings 1946 PM13",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1946--pm13_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1946--pm13_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1946--pm13-m13a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1946--pm13-m13a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1946--pm13-m13b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1946--pm13-m13b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM14",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM14",
+      "denomination": 10.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM14a",
+      "title": "Great Britain  10 Shillings 1946 PM14",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1946--pm14_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1946--pm14_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1946--pm14-m14a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1946--pm14-m14a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1946--pm14-m14b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1946--pm14-m14b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM15",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM15",
+      "denomination": 1.0,
+      "date": "ND (1946)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Trieste and JapanM15a",
+      "title": "Great Britain  1 Pound 1946 PM15",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1946--pm15_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1946--pm15_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1946--pm15-m15a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1946--pm15-m15a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1946--pm15-m15b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1946--pm15-m15b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM16",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM16",
+      "denomination": 3.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM16a",
+      "title": "Great Britain  3 Pence 1948 PM16",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1948--pm16_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1948--pm16_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1948--pm16-m16a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1948--pm16-m16a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1948--pm16-m16b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--3-pence-nd-1948--pm16-m16b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM17",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM17",
+      "denomination": 6.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM17a",
+      "title": "Great Britain  6 Pence 1948 PM17",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1948--pm17_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1948--pm17_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1948--pm17-m17a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1948--pm17-m17a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1948--pm17-m17b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1948--pm17-m17b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM18",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM18",
+      "denomination": 1.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM18a",
+      "title": "Great Britain  1 Shilling 1948 PM18",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1948--pm18_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1948--pm18_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1948--pm18-m18a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1948--pm18-m18a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1948--pm18-m18b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1948--pm18-m18b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM19",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM19",
+      "denomination": 2.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM19a",
+      "title": "Great Britain  2 Shillings 6 Pence 1948 PM19",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1948--pm19_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1948--pm19_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1948--pm19-m19a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1948--pm19-m19a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1948--pm19-m19b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--2-shillings-6-pence-nd-1948--pm19-m19b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM20",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM20",
+      "denomination": 5.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM20a",
+      "title": "Great Britain  5 Shillings 1948 PM20",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20-m20a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20-m20a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20-m20c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20-m20c_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20-m20d_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-shillings-nd-1948--pm20-m20d_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM21",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM21",
+      "denomination": 10.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM21a",
+      "title": "Great Britain  10 Shillings 1948 PM21",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948--pm21_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948--pm21_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948--pm21-m21a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948--pm21-m21a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948--pm21-m21b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1948--pm21-m21b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM22",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM22",
+      "denomination": 1.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporeM22a",
+      "title": "Great Britain  1 Pound 1948 PM22",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948--pm22_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948--pm22_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948--pm22-m22a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948--pm22-m22a_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948--pm22-m22b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1948--pm22-m22b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM23",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM23",
+      "denomination": 5.0,
+      "date": "ND (1948)",
+      "issuer": null,
+      "printer": "Thomas de la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in Germany \n    and Austria, Japan and SingaporePM23",
+      "title": "Great Britain  5 Pounds 1948 PM23",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1948--pm23_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1948--pm23_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1948--pm23-pm23_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-pounds-nd-1948--pm23-pm23_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM25",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM25",
+      "denomination": 6.0,
+      "date": "ND (1956)",
+      "issuer": null,
+      "printer": null,
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: Use for the British troups during Suez \n    Canal CrisisPM25",
+      "title": "Great Britain  6 Pence 1956 PM25",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1956--pm25_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1956--pm25_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1956--pm25-pm25_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--6-pence-nd-1956--pm25-pm25_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM26",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM26",
+      "denomination": 1.0,
+      "date": "ND (1956)",
+      "issuer": null,
+      "printer": null,
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: Use for the British troups during Suez \n    Canal CrisisM26a",
+      "title": "Great Britain  1 Shilling 1956 PM26",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1956--pm26_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1956--pm26_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1956--pm26-m26b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1956--pm26-m26b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1956--pm26-m26c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1956--pm26-m26c_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM28",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM28",
+      "denomination": 10.0,
+      "date": "ND (1956)",
+      "issuer": null,
+      "printer": null,
+      "obverse_info": "Informacion del reverso:  Crown and lion",
+      "reverse_info": "Crown and lion",
+      "title": "Great Britain  10 Shillings 1956 PM28",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1956--pm28_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1956--pm28_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1956--pm28-m28b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1956--pm28-m28b_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM29",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM29",
+      "denomination": 1.0,
+      "date": "ND (1956)",
+      "issuer": null,
+      "printer": null,
+      "obverse_info": "Informacion del reverso:  Crown and lion",
+      "reverse_info": "Crown and lion",
+      "title": "Great Britain  1 Pound 1956 PM29",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1956--pm29_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1956--pm29_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1956--pm29-pm29_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1956--pm29-pm29_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM32",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM32",
+      "denomination": 1.0,
+      "date": "ND (1962)",
+      "issuer": null,
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  not issuedM32a",
+      "title": "Great Britain  1 Shilling 1962 PM32",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1962--pm32_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1962--pm32_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1962--pm32-m32b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1962--pm32-m32b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1962--pm32-m32r_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-shilling-nd-1962--pm32-m32r_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM35",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM35",
+      "denomination": 10.0,
+      "date": "ND (1962)",
+      "issuer": null,
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  not issuedM35a",
+      "title": "Great Britain  10 Shillings 1962 PM35",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1962--pm35_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1962--pm35_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1962--pm35-m35b_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1962--pm35-m35b_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1962--pm35-m35c_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-shillings-nd-1962--pm35-m35c_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM36",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM36",
+      "denomination": 1.0,
+      "date": "ND (1962)",
+      "issuer": null,
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  not issuedM36a",
+      "title": "Great Britain  1 Pound 1962 PM36",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1962--pm36_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1962--pm36_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1962--pm36-m36a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--1-pound-nd-1962--pm36-m36a_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM44",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM44",
+      "denomination": 5.0,
+      "date": "ND (1972)",
+      "issuer": null,
+      "printer": "De la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in West \n    BerlinM44a",
+      "title": "Great Britain  5 New Pence 1972 PM44",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm44_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm44_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm44-m44a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm44-m44a_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM45",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM45",
+      "denomination": 10.0,
+      "date": "ND (1972)",
+      "issuer": null,
+      "printer": "De la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in West \n    BerlinM45a",
+      "title": "Great Britain  10 New Pence 1972 PM45",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm45_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm45_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm45-m45a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm45-m45a_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM46",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM46",
+      "denomination": 50.0,
+      "date": "ND (1972)",
+      "issuer": null,
+      "printer": "De la Rue, London",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in West \n    BerlinM46a",
+      "title": "Great Britain  50 New Pence 1972 PM46",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm46_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm46_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm46-m46a_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm46-m46a_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM47",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM47",
+      "denomination": 5.0,
+      "date": "ND (1972)",
+      "issuer": null,
+      "printer": "Bradbury Wilkinson, New Malden",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in West \n    BerlinPM47",
+      "title": "Great Britain  5 New Pence 1972 PM47",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm47_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm47_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm47-pm47_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--5-new-pence-nd-1972--pm47-pm47_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM48",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM48",
+      "denomination": 10.0,
+      "date": "ND (1972)",
+      "issuer": null,
+      "printer": "Bradbury Wilkinson, New Malden",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in West \n    BerlinPM48",
+      "title": "Great Britain  10 New Pence 1972 PM48",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm48_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm48_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm48-pm48_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--10-new-pence-nd-1972--pm48-pm48_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PM49",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PM49",
+      "denomination": 50.0,
+      "date": "ND (1972)",
+      "issuer": null,
+      "printer": "Bradbury Wilkinson, New Malden",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Purpose: for use by British troups in West \n    BerlinPM49",
+      "title": "Great Britain  50 New Pence 1972 PM49",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm49_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm49_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm49-pm49_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-new-pence-nd-1972--pm49-pm49_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PW396",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PW396",
+      "denomination": 20.0,
+      "date": "© 2018",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Joseph Mallord William Turner, the \"Painter of Light\"\n    Turner's oil painting \"The Fighting Temeraire\" (National Gallery, London)",
+      "title": "Great Britain  20 Pounds 2018 PW396",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2018--pw396_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2018--pw396_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2018--pw396-pw396_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--20-pounds-©-2018--pw396-pw396_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/great-britain-/PW397",
+      "country": "Great Britain",
+      "country_slug": "great-britain-",
+      "continent": "Europa",
+      "pick_number": "PW397",
+      "denomination": 50.0,
+      "date": "© 2020",
+      "issuer": "Bank of England",
+      "printer": "Informacion del anverso:  Elizabeth II",
+      "obverse_info": "Elizabeth II",
+      "reverse_info": "Alan Turing\n    mathematical table and formulae from Turing’s seminal paper “On\n    Computable Numbers, with an application to the \n    Entscheidungsproblem”;\n    Automatic Computing Engine (ACE) Pilot Machine (one \n    of the first electronic stored-program digital computers),\n    series of background images with technical \n    drawings from the \"ACE \n    Progress Report\";\n    ticker tape depicting \n    Alan Turing’s birth date (23 June 1912) in binary code;\n    technical drawings for the \"Brit",
+      "title": "Great Britain  50 Pounds 2020 PW397",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2020--pw397_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2020--pw397_2.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2020--pw397-pw397_1.jpg",
+        "https://banknotescollection.com/images/billetes/great-britain--50-pounds-©-2020--pw397-pw397_2.jpg"
+      ],
+      "variants": []
+    }
+  ]
+}

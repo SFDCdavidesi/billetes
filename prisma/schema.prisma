@@ -17,6 +17,7 @@ model billetes_modelo {
   codigo_catalogo     String?               @db.VarChar(50)
   visible             Boolean?              @default(true)
   catalogos           catalogos?            @relation(fields: [catalogo_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  colecciones_items   colecciones_items[]
   ejemplares          ejemplares[]
   imagenes_modelo     imagenes_modelo[]
   listas_deseos_items listas_deseos_items[]
@@ -63,16 +64,16 @@ model colecciones {
 }
 
 model colecciones_items {
-  id                Int          @id @default(autoincrement())
+  id                Int              @id @default(autoincrement())
   coleccion_id      Int?
+  modelo_id         Int?
   ejemplar_id       Int?
-  precio_valoracion Decimal?     @db.Decimal(15, 2)
-  fecha_agregado    DateTime?    @default(now()) @db.Timestamp(6)
-  visible           Boolean?     @default(true)
-  colecciones       colecciones? @relation(fields: [coleccion_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
-  ejemplares        ejemplares?  @relation(fields: [ejemplar_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
-
-  @@unique([coleccion_id, ejemplar_id])
+  precio_valoracion Decimal?         @db.Decimal(15, 2)
+  fecha_agregado    DateTime?        @default(now()) @db.Timestamp(6)
+  visible           Boolean?         @default(true)
+  colecciones       colecciones?     @relation(fields: [coleccion_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  billetes_modelo   billetes_modelo? @relation(fields: [modelo_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  ejemplares        ejemplares?      @relation(fields: [ejemplar_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
 }
 
 /// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
@@ -98,10 +99,13 @@ model ejemplares {
   id                  Int                   @id @default(autoincrement())
   modelo_id           Int
   propietario_id      Int
+  numero_serie        String?               @db.VarChar(50)
   estado_conservacion String?               @db.VarChar(20)
   notas_privadas      String?
   en_venta            Boolean?              @default(false)
   precio              Decimal?              @db.Decimal(15, 2)
+  moneda_precio       String?               @default("EUR") @db.VarChar(3)
+  condiciones_venta   String?
   fecha_adquisicion   DateTime?             @db.Date
   visible             Boolean?              @default(true)
   carrito_items       carrito_items[]

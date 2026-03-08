@@ -9,7 +9,7 @@ import { translateCountry, getAllCountriesTranslated, countryToEnglish } from '@
 export default function SearchBanknotes() {
   const { t, locale } = useI18n();
   const [paises, setPaises] = useState([]);
-  const [filters, setFilters] = useState({ pais: '', anio_desde: '', anio_hasta: '', denominacion: '' });
+  const [filters, setFilters] = useState({ pais: '', anio_desde: '', anio_hasta: '', denominacion: '', referencia: '' });
   const [results, setResults] = useState([]);
   const [total, setTotal] = useState(0);
   const [page, setPage] = useState(1);
@@ -34,6 +34,7 @@ export default function SearchBanknotes() {
     if (filters.anio_desde) params.set('anio_desde', filters.anio_desde);
     if (filters.anio_hasta) params.set('anio_hasta', filters.anio_hasta);
     if (filters.denominacion) params.set('denominacion', filters.denominacion);
+    if (filters.referencia) params.set('referencia', filters.referencia);
     params.set('page', pageNum.toString());
     params.set('limit', '12');
 
@@ -57,7 +58,7 @@ export default function SearchBanknotes() {
   };
 
   const clearFilters = () => {
-    setFilters({ pais: '', anio_desde: '', anio_hasta: '', denominacion: '' });
+    setFilters({ pais: '', anio_desde: '', anio_hasta: '', denominacion: '', referencia: '' });
     setResults([]);
     setSearched(false);
     setTotal(0);
@@ -80,7 +81,19 @@ export default function SearchBanknotes() {
 
         {/* Search form */}
         <form onSubmit={handleSubmit} className="bg-white rounded-2xl shadow-lg p-6 mb-8">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+            {/* Reference */}
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-1">{t('search.reference')}</label>
+              <input
+                type="text"
+                placeholder={t('search.referencePlaceholder')}
+                value={filters.referencia}
+                onChange={(e) => setFilters(f => ({ ...f, referencia: e.target.value }))}
+                className="w-full px-3 py-2.5 bg-gray-50 border border-gray-200 rounded-xl text-gray-900 focus:ring-2 focus:ring-amber-500 focus:border-amber-500 transition-colors"
+              />
+            </div>
+
             {/* Country */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">{t('fields.country')}</label>
@@ -123,13 +136,15 @@ export default function SearchBanknotes() {
 
             {/* Denomination / Currency */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">{t('fields.currency')}</label>
+              <label className="block text-sm font-medium text-gray-700 mb-1">{t('fields.denomination')}</label>
               <input
-                type="text"
-                placeholder={t('search.currencyPlaceholder')}
+                type="number"
+                placeholder={t('search.denominationPlaceholder')}
                 value={filters.denominacion}
                 onChange={(e) => setFilters(f => ({ ...f, denominacion: e.target.value }))}
                 className="w-full px-3 py-2.5 bg-gray-50 border border-gray-200 rounded-xl text-gray-900 focus:ring-2 focus:ring-amber-500 focus:border-amber-500 transition-colors"
+                min="0"
+                step="any"
               />
             </div>
 

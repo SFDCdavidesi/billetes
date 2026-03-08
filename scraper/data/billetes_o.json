@@ -1,0 +1,1510 @@
+{
+  "metadata": {
+    "source": "banknotescollection.com",
+    "filter": "Países con letra O",
+    "total_countries": 2,
+    "total_banknotes": 57,
+    "total_images": 220,
+    "errors": 0
+  },
+  "banknotes": [
+    {
+      "url": "https://banknotescollection.com/list/oceania/P2",
+      "country": "Oceania",
+      "country_slug": "oceania",
+      "continent": "Australia",
+      "pick_number": "P2",
+      "denomination": 1.0,
+      "date": "ND(1942)",
+      "issuer": "Japanese Government",
+      "printer": "Informacion del anverso:  Breadfruit tree, palm trees",
+      "obverse_info": "Breadfruit tree, palm trees",
+      "reverse_info": "Notas:  2a",
+      "title": "Oceania 1 Shilling  P2",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oceania-1-shilling-nd1942-p2_1.jpg",
+        "https://banknotescollection.com/images/billetes/oceania-1-shilling-nd1942-p2_2.jpg",
+        "https://banknotescollection.com/images/billetes/oceania-1-shilling-nd1942-p2-2a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oceania-1-shilling-nd1942-p2-2a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "2a",
+          "notes": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oceania/P4",
+      "country": "Oceania",
+      "country_slug": "oceania",
+      "continent": "Australia",
+      "pick_number": "P4",
+      "denomination": 1.0,
+      "date": "ND (1942)",
+      "issuer": "Japanese Government",
+      "printer": "Informacion del anverso:",
+      "obverse_info": "Informacion del reverso:",
+      "reverse_info": "Notas:  Japanese invasion of Oceania4a",
+      "title": "Oceania 1 Pound  P4",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oceania-1-pound-nd-1942-p4_1.jpg",
+        "https://banknotescollection.com/images/billetes/oceania-1-pound-nd-1942-p4_2.jpg",
+        "https://banknotescollection.com/images/billetes/oceania-1-pound-nd-1942-p4-4a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oceania-1-pound-nd-1942-p4-4a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "4a",
+          "notes": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P1",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P1",
+      "denomination": 100.0,
+      "date": "ND (1970)",
+      "issuer": "Sultanate of Muscat and Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Notas:  1a",
+      "title": "Oman 100 Baiza  P1",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1970--p1_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1970--p1_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1970--p1-1a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1970--p1-1a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "1a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P2",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P2",
+      "denomination": 0.25,
+      "date": "ND (1970)",
+      "issuer": "Sultanate of Muscat and Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Jalali fortress",
+      "title": "Oman 1/4 Rial Saidi  P2",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-14-rial-saidi-nd-1970--p2_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-saidi-nd-1970--p2_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-saidi-nd-1970--p2-2a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-saidi-nd-1970--p2-2a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "2a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P3",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P3",
+      "denomination": 0.5,
+      "date": "ND (1970)",
+      "issuer": "Sultanate of Muscat and Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Sumail fortress",
+      "title": "Oman ½ \n      Rial Saidi  P3",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "3a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P4",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P4",
+      "denomination": 1.0,
+      "date": "ND (1970)",
+      "issuer": "Sultanate of Muscat and Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Sohar fort",
+      "title": "Oman 1 \n      Rial Saidi  P4",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-saidi-nd-1970--p4_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-saidi-nd-1970--p4_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-saidi-nd-1970--p4-4a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-saidi-nd-1970--p4-4a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "4a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P5",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P5",
+      "denomination": 5.0,
+      "date": "ND (1970)",
+      "issuer": "Sultanate of Muscat and Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Nizwa fort",
+      "title": "Oman 5 Rials Saidi  P5",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-saidi-nd-1970--p5_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-saidi-nd-1970--p5_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-saidi-nd-1970--p5-5a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-saidi-nd-1970--p5-5a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "5a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P6",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P6",
+      "denomination": 10.0,
+      "date": "ND (1970)",
+      "issuer": "Sultanate of Muscat and Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Mirani Fort",
+      "title": "Oman 10 Rials Saidi  P6",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-saidi-nd-1970--p6_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-saidi-nd-1970--p6_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-saidi-nd-1970--p6-6a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-saidi-nd-1970--p6-6a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "6a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P7",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P7",
+      "denomination": 100.0,
+      "date": "ND (1973)",
+      "issuer": "Oman Currency Board",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Notas:  7a",
+      "title": "Oman 100 Baiza  P7",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1973--p7_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1973--p7_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1973--p7-7a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baiza-nd-1973--p7-7a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "7a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P8",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P8",
+      "denomination": 0.25,
+      "date": "ND (1973)",
+      "issuer": "Oman Currency Board",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Jalali fortress",
+      "title": "Oman 1/4 Rial Omani  P8",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-14-rial-omani-nd-1973--p8_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-omani-nd-1973--p8_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-omani-nd-1973--p8-8a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-omani-nd-1973--p8-8a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "8a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P9",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P9",
+      "denomination": 0.5,
+      "date": "ND (1973)",
+      "issuer": "Oman Currency Board",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Sumail fortress",
+      "title": "Oman ½ \n      Rial Omani  P9",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "9a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P10",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P10",
+      "denomination": 1.0,
+      "date": "ND (1973)",
+      "issuer": "Oman Currency Board",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Sohar fort",
+      "title": "Oman 1 Rial Omani  P10",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-omani-nd-1973--p10_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-omani-nd-1973--p10_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-omani-nd-1973--p10-10a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-omani-nd-1973--p10-10a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "10a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P11",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P11",
+      "denomination": 5.0,
+      "date": "ND (1973)",
+      "issuer": "Oman Currency Board",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Nizwa fort",
+      "title": "Oman 5 Rials Omani  P11",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-omani-nd-1973--p11_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-omani-nd-1973--p11_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-omani-nd-1973--p11-11a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-omani-nd-1973--p11-11a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "11a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P12",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P12",
+      "denomination": 10.0,
+      "date": "ND (1973)",
+      "issuer": "Oman Currency Board",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Mirani Fort",
+      "title": "Oman 10 Rials Omani  P12",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-omani-nd-1973--p12_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-omani-nd-1973--p12_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-omani-nd-1973--p12-12a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-omani-nd-1973--p12-12a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "12a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P13",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P13",
+      "denomination": 100.0,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Port Qaboos, Muttrah (Muscat)",
+      "title": "Oman 100 Baisa  P13",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-nd-1977--p13_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-nd-1977--p13_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-nd-1977--p13-13a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-nd-1977--p13-13a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "13a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P14",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P14",
+      "denomination": 200.0,
+      "date": "ND (1985)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Rustaq fortress",
+      "title": "Oman 200 Baisa  P14",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-nd-1985--p14_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-nd-1985--p14_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-nd-1985--p14-p14_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-nd-1985--p14-p14_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P15",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P15",
+      "denomination": 0.25,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Jalali fortress",
+      "title": "Oman 1/4 Rial  P15",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-14-rial-nd-1977--p15_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-nd-1977--p15_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-nd-1977--p15-15a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-nd-1977--p15-15a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "15a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P16",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P16",
+      "denomination": 0.5,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Sumail fortress",
+      "title": "Oman ½ \n      Rial  P16",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "16a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P17",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P17",
+      "denomination": 1.0,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Sohar fort",
+      "title": "Oman 1 \n      Rial  P17",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-nd-1977--p17_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-nd-1977--p17_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-nd-1977--p17-17a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-nd-1977--p17-17a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "17a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P18",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P18",
+      "denomination": 5.0,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Nizwa fort",
+      "title": "Oman 5 Rials  P18",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-nd-1977--p18_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-nd-1977--p18_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-nd-1977--p18-18a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-nd-1977--p18-18a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "18a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P19",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P19",
+      "denomination": 10.0,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": "Informacion del anverso:   Arms",
+      "obverse_info": "Arms",
+      "reverse_info": "Mirani Fort",
+      "title": "Oman 10 Rials  P19",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-nd-1977--p19_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-nd-1977--p19_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-nd-1977--p19-19a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-nd-1977--p19-19a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "19a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P20",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P20",
+      "denomination": 20.0,
+      "date": "ND (1977)",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Central Bank of Oman building, Muscat",
+      "title": "Oman 20 \n      Rials  P20",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-20-rials-nd-1977--p20_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-nd-1977--p20_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-nd-1977--p20-20a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-nd-1977--p20-20a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "20a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P21",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P21",
+      "denomination": 50.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Jabreen fort",
+      "title": "Oman 50 Rials 1985 P21",
+      "notes": null,
+      "images": [],
+      "variants": [
+        {
+          "variant_id": "21a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P22",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P22",
+      "denomination": 100.0,
+      "date": "1987-1994",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Port Qaboos, Muttrah (Muscat)",
+      "title": "Oman 100 Baisa 1994 P22",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22a_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22b_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22c_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22c_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22d_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1987-1994--p22-22d_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "22a",
+          "notes": "1987",
+          "images": []
+        },
+        {
+          "variant_id": "22b",
+          "notes": "1989",
+          "images": []
+        },
+        {
+          "variant_id": "22c",
+          "notes": "1992",
+          "images": []
+        },
+        {
+          "variant_id": "22d",
+          "notes": "1994",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P23",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P23",
+      "denomination": 200.0,
+      "date": "1987-1994",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Rustaq fortress",
+      "title": "Oman 200 Baisa 1994 P23",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23-23a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23-23a_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23-23b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23-23b_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23-23c_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1987-1994--p23-23c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "23a",
+          "notes": "1987",
+          "images": []
+        },
+        {
+          "variant_id": "23b",
+          "notes": "1993",
+          "images": []
+        },
+        {
+          "variant_id": "23c",
+          "notes": "1994",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P24",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P24",
+      "denomination": 0.25,
+      "date": "1989",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Fishing industry, trawler",
+      "title": "Oman 1/4 Rial 1989 P24",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-14-rial-1989--p24_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-1989--p24_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-1989--p24-p24_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-14-rial-1989--p24-p24_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P25",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P25",
+      "denomination": 0.5,
+      "date": "1987",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Sultan Qaboos University",
+      "title": "Oman ½ \n      Rial 1987 P25",
+      "notes": null,
+      "images": [],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P26",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P26",
+      "denomination": 1.0,
+      "date": "1987-1994",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Sohar fort",
+      "title": "Oman 1 \n      Rial 1994 P26",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26-26a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26-26a_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26-26b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26-26b_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26-26c_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1987-1994--p26-26c_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "26a",
+          "notes": "1987",
+          "images": []
+        },
+        {
+          "variant_id": "26b",
+          "notes": "1989",
+          "images": []
+        },
+        {
+          "variant_id": "26c",
+          "notes": "1994",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P27",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P27",
+      "denomination": 5.0,
+      "date": "1990",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Nizwa fort",
+      "title": "Oman 5 Rials 1990 P27",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-1990--p27_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-1990--p27_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-1990--p27-p27_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-1990--p27-p27_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P28",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P28",
+      "denomination": 10.0,
+      "date": "1987 & 1993",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Mirani fort",
+      "title": "Oman 10 Rials 1987 P28",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1987-amp-1993--p28_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1987-amp-1993--p28_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1987-amp-1993--p28-28a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1987-amp-1993--p28-28a_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1987-amp-1993--p28-28b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1987-amp-1993--p28-28b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "28a",
+          "notes": "1987",
+          "images": []
+        },
+        {
+          "variant_id": "28b",
+          "notes": "1993",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P29",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P29",
+      "denomination": 20.0,
+      "date": "1987 & 1994",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Central Bank of Oman building, Muscat",
+      "title": "Oman 20 Rials 1987 P29",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1987-amp-1994--p29_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1987-amp-1994--p29_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1987-amp-1994--p29-29a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1987-amp-1994--p29-29a_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1987-amp-1994--p29-29b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1987-amp-1994--p29-29b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "29a",
+          "notes": "1987",
+          "images": []
+        },
+        {
+          "variant_id": "29b",
+          "notes": "1994",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P30",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P30",
+      "denomination": 50.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id",
+      "reverse_info": "Jabreen fort",
+      "title": "Oman 50 Rials 1985 P30",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-50-rials-1985-amp-1992-for-a-similar-earlier-not-dated-note-see-oman-p-21--p30-30b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-1985-amp-1992-for-a-similar-earlier-not-dated-note-see-oman-p-21--p30-30b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "30a",
+          "notes": "1985",
+          "images": []
+        },
+        {
+          "variant_id": "30b",
+          "notes": "1992",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P31",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P31",
+      "denomination": 100.0,
+      "date": "1995",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, irrigation canal",
+      "reverse_info": "Verreaux eagle, white oryx",
+      "title": "Oman 100 Baisa 1995 P31",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1995--p31_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1995--p31_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1995--p31-p31_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-1995--p31-p31_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P32",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P32",
+      "denomination": 200.0,
+      "date": "1995",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Seeb (Muscat) and Salalah airports",
+      "reverse_info": "Marine Science & Fisheries Center; Port \n  Qaboos, Muttrah (Muscat)",
+      "title": "Oman 200 Baisa 1995 P32",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1995--p32_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1995--p32_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1995--p32-p32_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-200-baisa-1995--p32-p32_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P33",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P33",
+      "denomination": 0.5,
+      "date": "1995",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Bahla fortress",
+      "reverse_info": "Al-Hazim fort, Nakhl fort",
+      "title": "Oman ½ \n      Rial 1995 P33",
+      "notes": null,
+      "images": [],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P34",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P34",
+      "denomination": 1.0,
+      "date": "1995",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Sultan Qaboos Sports Complex",
+      "reverse_info": "Omani Khanjar (dagger), silver \n  bracelets and ornaments, dhows",
+      "title": "Oman 1 \n      Rial 1995 P34",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1995--p34_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1995--p34_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1995--p34-p34_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-1995--p34-p34_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P35",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P35",
+      "denomination": 5.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Sultan Qaboos University",
+      "reverse_info": "Nizwa",
+      "title": "Oman 5 Rials  P35",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-1995-for-a-similar-later-note-with-holographic-foil-on-front-see-oman-p-39--p35-35b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-1995-for-a-similar-later-note-with-holographic-foil-on-front-see-oman-p-39--p35-35b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "35a",
+          "notes": "without reflective \"Khanjar\" pattern on back",
+          "images": []
+        },
+        {
+          "variant_id": "35b",
+          "notes": "with reflective \"Khanjar\" pattern on back",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P36",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P36",
+      "denomination": 10.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Al-Nahdha tower (Salalah)",
+      "reverse_info": "Muttrah fort",
+      "title": "Oman 10 \n      Rials  P36",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1995-for-a-similar-later-note-see-oman-p-40--p36_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1995-for-a-similar-later-note-see-oman-p-40--p36_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1995-for-a-similar-later-note-see-oman-p-40--p36-p36_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-1995-for-a-similar-later-note-see-oman-p-40--p36-p36_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P37",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P37",
+      "denomination": 20.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Central Bank of Oman building (Muscat)",
+      "reverse_info": "Muscat Security Market, Rysayl industrial \n  area",
+      "title": "Oman 20 Rials  P37",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1995-for-a-similar-later-note-see-oman-p-41--p37_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1995-for-a-similar-later-note-see-oman-p-41--p37_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1995-for-a-similar-later-note-see-oman-p-41--p37-p37_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-1995-for-a-similar-later-note-see-oman-p-41--p37-p37_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P38",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P38",
+      "denomination": 50.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Ministry of Finance and Economy building (Muscat), Mirani Fort",
+      "reverse_info": "Cabinet building and Ministry of \n  Commerce and Industry building (Muscat)",
+      "title": "Oman 50 Rials  P38",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-50-rials-1995-for-a-similar-later-note-see-oman-p-42--p38_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-1995-for-a-similar-later-note-see-oman-p-42--p38_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-1995-for-a-similar-later-note-see-oman-p-42--p38-p38_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-1995-for-a-similar-later-note-see-oman-p-42--p38-p38_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P39",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P39",
+      "denomination": 5.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Sultan Qaboos University",
+      "reverse_info": "Nizwa",
+      "title": "Oman 5 \n      Rials  P39",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2000-for-similar-earlier-notes-see-oman-p-35--p39_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2000-for-similar-earlier-notes-see-oman-p-35--p39_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2000-for-similar-earlier-notes-see-oman-p-35--p39-p39_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2000-for-similar-earlier-notes-see-oman-p-35--p39-p39_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P40",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P40",
+      "denomination": 10.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Al-Nahdha tower (Salalah)",
+      "reverse_info": "Muttrah fort",
+      "title": "Oman 10 Rials  P40",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2000-for-a-similar-earlier-note-see-oman-p-36--p40_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2000-for-a-similar-earlier-note-see-oman-p-36--p40_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2000-for-a-similar-earlier-note-see-oman-p-36--p40-p40_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2000-for-a-similar-earlier-note-see-oman-p-36--p40-p40_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P41",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P41",
+      "denomination": 20.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Central Bank of Oman building (Muscat)",
+      "reverse_info": "Muscat Security Market, Rysayl industrial \n  area",
+      "title": "Oman 20 Rials  P41",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2000-for-a-similar-earlier-note-see-oman-p-37--p41_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2000-for-a-similar-earlier-note-see-oman-p-37--p41_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2000-for-a-similar-earlier-note-see-oman-p-37--p41-p41_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2000-for-a-similar-earlier-note-see-oman-p-37--p41-p41_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P42",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P42",
+      "denomination": 50.0,
+      "date": null,
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Ministry of Finance and Economy building (Muscat), Mirani Fort",
+      "reverse_info": "Cabinet building and Ministry of \n  Commerce and Industry building (Muscat)",
+      "title": "Oman 50 Rials  P42",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2000-for-a-similar-earlier-note-see-oman-p-38--p42_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2000-for-a-similar-earlier-note-see-oman-p-38--p42_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2000-for-a-similar-earlier-note-see-oman-p-38--p42-p42_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2000-for-a-similar-earlier-note-see-oman-p-38--p42-p42_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P43",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P43",
+      "denomination": 1.0,
+      "date": "2005",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, arms",
+      "reverse_info": "RNOV \"Shabab Oman\" (training ship of \n  the Royal Navy of Oman), minaret, Jalali fortress",
+      "title": "Oman 1 Rial 2005 P43",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2005--p43_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2005--p43_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2005--p43-43a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2005--p43-43a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "43a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P44",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P44",
+      "denomination": 5.0,
+      "date": "2010",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Sultan Qaboos University building with clock towermain entrance of the \n  Central Bank of Oman headquarters (Muscat)",
+      "reverse_info": "Nizwa fort",
+      "title": "Oman 5 Rials 2010 P44",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2010--p44_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2010--p44_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2010--p44-p44_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2010--p44-p44_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P45",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P45",
+      "denomination": 10.0,
+      "date": "2010",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Salalah tower, palm trees",
+      "reverse_info": "Muttrah fort and town",
+      "title": "Oman 10 Rials 2010 P45",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2010--p45_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2010--p45_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2010--p45-45a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2010--p45-45a_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "45a",
+          "notes": "issued note",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P46",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P46",
+      "denomination": 20.0,
+      "date": "2010",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Grand Mosque (Muscat)",
+      "reverse_info": "Royal Opera House, Muscat",
+      "title": "Oman 20 Rials 2010 P46",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2010--p46_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2010--p46_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2010--p46-p46_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2010--p46-p46_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P47",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P47",
+      "denomination": 50.0,
+      "date": "2010",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, Ministry of Finance and Economy building (Muscat), Mirani Fort",
+      "reverse_info": "Cabinet building and Ministry of \n  Commerce and Industry building (Muscat)",
+      "title": "Oman 50 Rials 2010 P47",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2010--p47_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2010--p47_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2010--p47-47_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2010--p47-47_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "47",
+          "notes": "narrow segmented security thread and small \n    holographic device",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/P48",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "P48",
+      "denomination": 1.0,
+      "date": "2015",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, arms, Al-Alam palace (Muscat)",
+      "reverse_info": "Flowers,  desert white \n  butterflies (Pontia glauconome), Sultan Qaboos University in Al Khoudh",
+      "title": "Oman 1 Rial 2015 P48",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2015--p48_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2015--p48_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2015--p48-48a_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2015--p48-48a_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2015--p48-48b_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2015--p48-48b_2.jpg"
+      ],
+      "variants": [
+        {
+          "variant_id": "48a",
+          "notes": "incorrect date on front\n    \n    \n    ١٤٢٧(AH1427)",
+          "images": []
+        },
+        {
+          "variant_id": "48b",
+          "notes": "corrected date on front: \n    \n    ١٤٣٧(AH1437)",
+          "images": []
+        }
+      ]
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW49",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW49",
+      "denomination": 50.0,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos bin \n  Sa'id, arms",
+      "reverse_info": "Buildings",
+      "title": "Oman 50 Rials 2020 PW49",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2020--pw49_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2020--pw49_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2020--pw49-pw49_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-50-rials-2020--pw49-pw49_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW50",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW50",
+      "denomination": 100.0,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Green \n  terraces of Jabal al-Akhdar, Omani arms",
+      "reverse_info": "Coconut trees, Falaj",
+      "title": "Oman 100\n      Baisa 2020 PW50",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-2020--pw50_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-2020--pw50_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-2020--pw50-pw50_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-100-baisa-2020--pw50-pw50_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW51",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW51",
+      "denomination": 0.5,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Ain \n  Kour waterfall (Dhofar), frankincense tree (Boswelia sacra)\n  Omani arms",
+      "reverse_info": "Sooty \n  falcon, Arabian leopard",
+      "title": "Oman 1/2 Rial 2020 PW51",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-12-rial-2020--pw51_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-12-rial-2020--pw51_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-12-rial-2020--pw51-pw51_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-12-rial-2020--pw51-pw51_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW52",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW52",
+      "denomination": 1.0,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Oman Across Ages Museum, \n  Nizwa\n  Omani arms",
+      "reverse_info": "Khasab Castle (Musandan), \n  Wadi Ain cemetery (Ibri), \n  Omani khanjar (dagger) and hatchet",
+      "title": "Oman 1 Rial 2020 PW52",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2020--pw52_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2020--pw52_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2020--pw52-pw52_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-1-rial-2020--pw52-pw52_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW53",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW53",
+      "denomination": 5.0,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Qaboos University, \n  Muscat\n  Sultan Haitham ibn Tariq ibn Taymur as-Sa'id",
+      "reverse_info": "Royal \n  Opera house, Muscat",
+      "title": "Oman 5 Rials 2020 PW53",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2020--pw53_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2020--pw53_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2020--pw53-pw53_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-5-rials-2020--pw53-pw53_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW54",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW54",
+      "denomination": 10.0,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan\n  Haitham ibn Tariq ibn Taymur as-Sa'id\n  Sultan Qaboos Grand Mosque",
+      "reverse_info": "Al Baleed archaeological \n  park (Salalah); niche (mihrab) of Uweyna \n  mosque (Wadi Bani Khalid)",
+      "title": "Oman 10 Rials 2020 PW54",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2020--pw54_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2020--pw54_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2020--pw54-pw54_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-10-rials-2020--pw54-pw54_2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "url": "https://banknotescollection.com/list/oman/PW55",
+      "country": "Oman",
+      "country_slug": "oman",
+      "continent": "Asia",
+      "pick_number": "PW55",
+      "denomination": 20.0,
+      "date": "2020",
+      "issuer": "Central Bank of Oman",
+      "printer": null,
+      "obverse_info": "Sultan Haitham ibn \n  Tariq ibn Taymur as-Sa'id\n  Muscat International airport",
+      "reverse_info": "Batinah Expressway, Sohar \n  Industrial port, \n  Salalah airport",
+      "title": "Oman 20 \n      Rials 2020 PW55",
+      "notes": null,
+      "images": [
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2020--pw55_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2020--pw55_2.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2020--pw55-pw55_1.jpg",
+        "https://banknotescollection.com/images/billetes/oman-20-rials-2020--pw55-pw55_2.jpg"
+      ],
+      "variants": []
+    }
+  ]
+}
