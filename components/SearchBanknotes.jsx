@@ -4,9 +4,10 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useI18n } from './I18nProvider';
+import { translateCountry, getAllCountriesTranslated, countryToEnglish } from '@/lib/countries';
 
 export default function SearchBanknotes() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
   const [paises, setPaises] = useState([]);
   const [filters, setFilters] = useState({ pais: '', anio_desde: '', anio_hasta: '', denominacion: '' });
   const [results, setResults] = useState([]);
@@ -16,17 +17,20 @@ export default function SearchBanknotes() {
   const [loading, setLoading] = useState(false);
   const [searched, setSearched] = useState(false);
 
-  // Load countries for dropdown
+  // Load countries for dropdown (translated and sorted by current locale)
   useEffect(() => {
     fetch('/api/billetes/paises')
       .then(res => res.json())
-      .then(data => setPaises(data.paises || []))
+      .then(data => {
+        const translated = getAllCountriesTranslated(data.paises || [], locale);
+        setPaises(translated);
+      })
       .catch(() => {});
-  }, []);
+  }, [locale]);
 
   const doSearch = (pageNum = 1) => {
     const params = new URLSearchParams();
-    if (filters.pais) params.set('pais', filters.pais);
+    if (filters.pais) params.set('pais', countryToEnglish(filters.pais, locale));
     if (filters.anio_desde) params.set('anio_desde', filters.anio_desde);
     if (filters.anio_hasta) params.set('anio_hasta', filters.anio_hasta);
     if (filters.denominacion) params.set('denominacion', filters.denominacion);
@@ -87,7 +91,7 @@ export default function SearchBanknotes() {
               >
                 <option value="">{t('search.allCountries')}</option>
                 {paises.map(p => (
-                  <option key={p} value={p}>{p}</option>
+                  <option key={p.en} value={p.translated}>{p.translated}</option>
                 ))}
               </select>
             </div>
@@ -202,7 +206,7 @@ export default function SearchBanknotes() {
                       </div>
                       <div className="p-4">
                         <p className="text-xs text-gray-500 font-medium mb-1">
-                          {billete.pais}{billete.anio ? ` · ${billete.anio}` : ''}
+                          {translateCountry(billete.pais, locale)}{billete.anio ? ` · ${billete.anio}` : ''}
                         </p>
                         <h3 className="text-sm font-bold text-gray-900 line-clamp-1">
                           {billete.denominacion > 0 ? billete.denominacion : ''} {billete.unidad_monetaria}

@@ -5,6 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useI18n } from '@/components/I18nProvider';
+import { translateCountry } from '@/lib/countries';
 
 const condicionLabels = {
   UNC: { label: 'Uncirculated', color: 'bg-emerald-100 text-emerald-800' },
@@ -21,7 +22,7 @@ const condicionLabels = {
 export default function BilleteDetalle() {
   const { id } = useParams();
   const router = useRouter();
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
   const [billete, setBillete] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -137,7 +138,7 @@ export default function BilleteDetalle() {
               {currentImage ? (
                 <Image
                   src={currentImage.url}
-                  alt={`${billete.pais} ${billete.denominacion} ${billete.unidad_monetaria} ${billete.codigo_catalogo}`}
+                  alt={`${translateCountry(billete.pais, locale)} ${billete.denominacion} ${billete.unidad_monetaria} ${billete.codigo_catalogo}`}
                   fill
                   className="object-contain p-4"
                   sizes="(max-width: 1024px) 100vw, 50vw"
@@ -198,7 +199,7 @@ export default function BilleteDetalle() {
             {/* Country flag and name */}
             <div className="flex items-center gap-2 mb-3">
               <span className="px-3 py-1 bg-gray-100 text-gray-700 text-sm font-medium rounded-full">
-                {billete.pais}
+                {translateCountry(billete.pais, locale)}
               </span>
               {billete.anio && (
                 <span className="px-3 py-1 bg-amber-50 text-amber-700 text-sm font-medium rounded-full">
@@ -243,7 +244,7 @@ export default function BilleteDetalle() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-gray-50 rounded-xl p-3">
                   <p className="text-xs text-gray-500 mb-0.5">{t('fields.country')}</p>
-                  <p className="font-semibold text-gray-900">{billete.pais}</p>
+                  <p className="font-semibold text-gray-900">{translateCountry(billete.pais, locale)}</p>
                 </div>
                 <div className="bg-gray-50 rounded-xl p-3">
                   <p className="text-xs text-gray-500 mb-0.5">{t('fields.year')}</p>

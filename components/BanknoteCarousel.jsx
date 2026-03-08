@@ -4,9 +4,10 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useI18n } from './I18nProvider';
+import { translateCountry } from '@/lib/countries';
 
 export default function BanknoteCarousel() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
   const [billetes, setBilletes] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -190,7 +191,7 @@ export default function BanknoteCarousel() {
                     </div>
                     <div className="p-4">
                       <p className="text-xs text-gray-500 font-medium mb-1">
-                        {billete.pais}{billete.anio ? ` · ${billete.anio}` : ''}
+                        {translateCountry(billete.pais, locale)}{billete.anio ? ` · ${billete.anio}` : ''}
                       </p>
                       <h3 className="text-sm font-bold text-gray-900 line-clamp-1">
                         {billete.denominacion > 0 ? billete.denominacion : ''} {billete.unidad_monetaria}
