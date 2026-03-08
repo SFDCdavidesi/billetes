@@ -11,6 +11,7 @@
     "admin": "Admin",
     "collections": "Collections",
     "myBanknotes": "My Banknotes",
+    "cart": "Cart",
     "logout": "Log Out"
   },
   "hero": {
@@ -181,6 +182,18 @@
     "copies": "Copies",
     "collections": "Collections",
     "error": "Error loading statistics"
+  },
+  "cart": {
+    "title": "My Cart",
+    "item": "item",
+    "items": "items",
+    "empty": "Your cart is empty",
+    "emptyDesc": "You haven't added any banknotes to your cart yet.",
+    "exploreBanknotes": "Explore banknotes",
+    "continueShopping": "Continue shopping",
+    "remove": "Remove",
+    "summary": "Summary",
+    "total": "Total"
   },
   "admin": {
     "title": "Admin Panel",

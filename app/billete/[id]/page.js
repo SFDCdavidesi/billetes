@@ -408,7 +408,7 @@ export default function BilleteDetalle() {
                       {/* Price */}
                       <div className="flex items-center justify-between mb-4">
                         <p className="text-3xl font-bold text-gray-900">
-                          {parseFloat(ejemplar.precio).toFixed(2)} <span className="text-lg text-gray-500">€</span>
+                          {parseFloat(ejemplar.precio).toFixed(2)} <span className="text-lg text-gray-500">{ejemplar.moneda_precio === 'USD' ? '$' : ejemplar.moneda_precio === 'GBP' ? '£' : '€'}</span>
                         </p>
                       </div>
 

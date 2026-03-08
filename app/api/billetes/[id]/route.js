@@ -53,6 +53,7 @@ export async function GET(request, { params }) {
         id: ej.id,
         estado_conservacion: ej.estado_conservacion,
         precio: ej.precio,
+        moneda_precio: ej.moneda_precio || 'EUR',
         notas_privadas: null,
         propietario: ej.usuarios?.nombre || 'Anónimo',
         imagenes: ej.imagenes_ejemplar.map(img => ({

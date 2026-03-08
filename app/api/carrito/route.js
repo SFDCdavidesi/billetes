@@ -87,6 +87,7 @@ export async function GET(request) {
       id: item.id,
       ejemplar_id: item.ejemplar_id,
       precio: item.ejemplares?.precio,
+      moneda_precio: item.ejemplares?.moneda_precio || 'EUR',
       estado: item.ejemplares?.estado_conservacion,
       billete: {
         id: item.ejemplares?.billetes_modelo?.id,
@@ -101,6 +102,37 @@ export async function GET(request) {
     return NextResponse.json({ items: result });
   } catch (error) {
     console.error('Error fetching cart:', error);
+    return NextResponse.json({ error: 'Error interno' }, { status: 500 });
+  }
+}
+
+export async function DELETE(request) {
+  try {
+    const user = getUserFromRequest(request);
+    if (!user) {
+      return NextResponse.json({ error: 'No autenticado' }, { status: 401 });
+    }
+
+    const { searchParams } = new URL(request.url);
+    const itemId = parseInt(searchParams.get('id'), 10);
+
+    if (isNaN(itemId)) {
+      return NextResponse.json({ error: 'ID inválido' }, { status: 400 });
+    }
+
+    const item = await prisma.carrito_items.findFirst({
+      where: { id: itemId, usuario_id: user.id },
+    });
+
+    if (!item) {
+      return NextResponse.json({ error: 'Item no encontrado' }, { status: 404 });
+    }
+
+    await prisma.carrito_items.delete({ where: { id: itemId } });
+
+    return NextResponse.json({ ok: true });
+  } catch (error) {
+    console.error('Error deleting cart item:', error);
     return NextResponse.json({ error: 'Error interno' }, { status: 500 });
   }
 }

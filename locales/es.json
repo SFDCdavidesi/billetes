@@ -11,6 +11,7 @@
     "admin": "Administración",
     "collections": "Colecciones",
     "myBanknotes": "Mis Billetes",
+    "cart": "Carrito",
     "logout": "Cerrar Sesión"
   },
   "hero": {
@@ -184,6 +185,18 @@
     "copies": "Ejemplares",
     "collections": "Colecciones",
     "error": "Error al cargar las estadísticas"
+  },
+  "cart": {
+    "title": "Mi Carrito",
+    "item": "artículo",
+    "items": "artículos",
+    "empty": "Tu carrito está vacío",
+    "emptyDesc": "Aún no has añadido ningún billete a tu carrito.",
+    "exploreBanknotes": "Explorar billetes",
+    "continueShopping": "Seguir comprando",
+    "remove": "Eliminar",
+    "summary": "Resumen",
+    "total": "Total"
   },
   "admin": {
     "title": "Panel de Administración",

@@ -11,6 +11,7 @@
     "admin": "Verwaltung",
     "collections": "Sammlungen",
     "myBanknotes": "Meine Banknoten",
+    "cart": "Warenkorb",
     "logout": "Abmelden"
   },
   "hero": {
@@ -181,6 +182,18 @@
     "copies": "Exemplare",
     "collections": "Sammlungen",
     "error": "Fehler beim Laden der Statistiken"
+  },
+  "cart": {
+    "title": "Mein Warenkorb",
+    "item": "Artikel",
+    "items": "Artikel",
+    "empty": "Ihr Warenkorb ist leer",
+    "emptyDesc": "Sie haben noch keine Banknoten in Ihren Warenkorb gelegt.",
+    "exploreBanknotes": "Banknoten entdecken",
+    "continueShopping": "Weiter einkaufen",
+    "remove": "Entfernen",
+    "summary": "Zusammenfassung",
+    "total": "Gesamt"
   },
   "admin": {
     "title": "Verwaltungspanel",
