@@ -1,6 +1,6 @@
 'use client';
 
-import Image from 'next/image';
+import BanknoteImage from './BanknoteImage';
 import { useI18n } from './I18nProvider';
 
 export default function BilleteCard({ billete }) {
@@ -20,7 +20,7 @@ export default function BilleteCard({ billete }) {
     <div className="group bg-white rounded-2xl shadow-md hover:shadow-xl border border-gray-100 overflow-hidden transition-all duration-300 hover:-translate-y-1">
       {/* Image */}
       <div className="relative aspect-[3/2] bg-gray-100 overflow-hidden">
-        <Image
+        <BanknoteImage
           src={billete.image}
           alt={billete.title}
           fill

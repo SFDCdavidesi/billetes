@@ -114,6 +114,7 @@ model ejemplares {
   usuarios            usuarios              @relation(fields: [propietario_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
   imagenes_ejemplar   imagenes_ejemplar[]
   listas_deseos_items listas_deseos_items[]
+  mensajes            mensajes[]
   pedidos             pedidos[]
   subastas            subastas[]
 }
@@ -221,4 +222,24 @@ model usuarios {
   pujas                                  pujas[]
   subastas                               subastas[]
   perfiles                               perfiles?       @relation(fields: [perfil_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  mensajes_enviados                      mensajes[]      @relation("mensajes_remitente")
+  mensajes_recibidos                     mensajes[]      @relation("mensajes_destinatario")
+}
+
+model mensajes {
+  id                Int       @id @default(autoincrement())
+  remitente_id      Int
+  destinatario_id   Int
+  ejemplar_id       Int?
+  asunto            String    @db.VarChar(255)
+  contenido         String
+  leido             Boolean   @default(false)
+  fecha_envio       DateTime  @default(now()) @db.Timestamp(6)
+  hilo_id           Int?
+  visible           Boolean   @default(true)
+  remitente         usuarios  @relation("mensajes_remitente", fields: [remitente_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  destinatario      usuarios  @relation("mensajes_destinatario", fields: [destinatario_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  ejemplares        ejemplares? @relation(fields: [ejemplar_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  hilo              mensajes?  @relation("hilo_mensajes", fields: [hilo_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  respuestas        mensajes[] @relation("hilo_mensajes")
 }

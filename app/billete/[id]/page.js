@@ -6,6 +6,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useI18n } from '@/components/I18nProvider';
 import { translateCountry } from '@/lib/countries';
+import BanknoteImage from '@/components/BanknoteImage';
 import IHaveThisModal from '@/components/IHaveThisModal';
 import AddToCollectionModal from '@/components/AddToCollectionModal';
 
@@ -160,22 +161,15 @@ export default function BilleteDetalle() {
           <div>
             {/* Main image */}
             <div className="relative aspect-[4/3] bg-white rounded-2xl shadow-lg overflow-hidden border border-gray-100 mb-4">
-              {currentImage ? (
-                <Image
-                  src={currentImage.url}
-                  alt={`${translateCountry(billete.pais, locale)} ${billete.denominacion} ${billete.unidad_monetaria} ${billete.codigo_catalogo}`}
-                  fill
-                  className="object-contain p-4"
-                  sizes="(max-width: 1024px) 100vw, 50vw"
-                  priority
-                />
-              ) : (
-                <div className="w-full h-full flex items-center justify-center text-gray-300">
-                  <svg className="w-24 h-24" fill="none" viewBox="0 0 24 24" strokeWidth={0.5} stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0 0 22.5 18.75V5.25A2.25 2.25 0 0 0 20.25 3H3.75A2.25 2.25 0 0 0 1.5 5.25v13.5A2.25 2.25 0 0 0 3.75 21Z" />
-                  </svg>
-                </div>
-              )}
+              <BanknoteImage
+                src={currentImage?.url}
+                alt={`${translateCountry(billete.pais, locale)} ${billete.denominacion} ${billete.unidad_monetaria} ${billete.codigo_catalogo}`}
+                fill
+                className="object-contain p-4"
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                iconSize="w-24 h-24"
+                priority
+              />
 
               {/* For sale badge */}
               {enVenta.length > 0 && (
@@ -212,6 +206,7 @@ export default function BilleteDetalle() {
                       fill
                       className="object-cover"
                       sizes="80px"
+                      onError={(e) => { e.target.style.display = 'none'; }}
                     />
                   </button>
                 ))}
@@ -383,7 +378,7 @@ export default function BilleteDetalle() {
                     {/* Ejemplar image */}
                     {ejemplar.imagenes?.length > 0 ? (
                       <div className="relative aspect-[3/2] bg-gray-50 overflow-hidden">
-                        <Image
+                        <BanknoteImage
                           src={ejemplar.imagenes[0].url}
                           alt={`${billete.codigo_catalogo} - ${ejemplar.estado_conservacion}`}
                           fill
@@ -393,9 +388,7 @@ export default function BilleteDetalle() {
                       </div>
                     ) : (
                       <div className="aspect-[3/2] bg-gray-50 flex items-center justify-center text-gray-300">
-                        <svg className="w-12 h-12" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0 0 22.5 18.75V5.25A2.25 2.25 0 0 0 20.25 3H3.75A2.25 2.25 0 0 0 1.5 5.25v13.5A2.25 2.25 0 0 0 3.75 21Z" />
-                        </svg>
+                        <BanknoteImage iconSize="w-12 h-12" />
                       </div>
                     )}
 
