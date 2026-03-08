@@ -111,7 +111,7 @@ export default function Header() {
                 <Link href="/login" className="px-4 py-2 text-gray-700 hover:text-gold-600 font-medium transition-colors">
                   {t('header.login')}
                 </Link>
-                <Link href="/signup" className="px-5 py-2.5 bg-gradient-to-r from-gold-500 to-gold-600 hover:from-gold-600 hover:to-gold-700 text-white font-semibold rounded-lg shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5">
+                <Link href="/registro" className="px-5 py-2.5 bg-gradient-to-r from-gold-500 to-gold-600 hover:from-gold-600 hover:to-gold-700 text-white font-semibold rounded-lg shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5">
                   {t('header.signup')}
                 </Link>
               </>
@@ -206,7 +206,7 @@ export default function Header() {
                   <Link href="/login" className="px-4 py-2 text-center text-gray-700 hover:text-gold-600 font-medium transition-colors">
                     {t('header.login')}
                   </Link>
-                  <Link href="/signup" className="mx-4 px-4 py-2.5 bg-gradient-to-r from-gold-500 to-gold-600 text-white font-semibold rounded-lg text-center shadow-md">
+                  <Link href="/registro" className="mx-4 px-4 py-2.5 bg-gradient-to-r from-gold-500 to-gold-600 text-white font-semibold rounded-lg text-center shadow-md">
                     {t('header.signup')}
                   </Link>
                 </>
